@@ -19,9 +19,7 @@ The project was inspired by the absence of such applications compatible with old
 
 *Help to keep translations updated is always welcome, if you want give a hand checkout the translation project at [Crowdin][2].*
 
-<a href="https://f-droid.org/repository/browse/?fdid=it.feio.android.omninotes.foss" target="_blank">
-<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="90"/></a>
-<a href="https://play.google.com/store/apps/details?id=it.feio.android.omninotes" target="_blank">
+<a href="https://https://play.google.com/store/apps/details?id=com.lancenotes.app" target="_blank">
 <img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="Get it on Google Play" height="90"/></a>
 
 ## Features
