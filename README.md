@@ -38,11 +38,6 @@ Currently the following functions are implemented:
 
 *Has No Ads*/
 
-![](https://raw.githubusercontent.com/federicoiosue/Omni-Notes/fastlane/metadata/android/en-US/images/phoneScreenshots/02.png)
-![](https://raw.githubusercontent.com/federicoiosue/Omni-Notes/fastlane/metadata/android/en-US/images/phoneScreenshots/03.png)
-![](https://raw.githubusercontent.com/federicoiosue/Omni-Notes/fastlane/metadata/android/en-US/images/phoneScreenshots/04.png)
-![](https://raw.githubusercontent.com/federicoiosue/Omni-Notes/fastlane/metadata/android/en-US/images/phoneScreenshots/05.png)
-
 ## Contributing
 
 The main contributor of this app is federicoiosue/Omni-Notes.
