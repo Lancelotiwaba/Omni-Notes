@@ -44,7 +44,7 @@ The main contributor of this app is federicoiosue/Omni-Notes.
 
 Feel free to add yourself to [contributors.md](https://github.com/federicoiosue/Omni-Notes/blob/develop/contributors.md) file.
 
-## This App was initially Developed with love and passion by Federicoiosue and Recompiled by Lance Apps
+## This App was initially Developed by Federicoiosue and Recompiled by Lance Apps
 
 
 * Federico Iosue - [Website](https://federico.iosue.it)
