@@ -21,7 +21,7 @@
   <string name="title_item_list">Poznámky</string>
   <string name="add_note">Pridať poznámku</string>
   <string name="title">Názov</string>
-  <string name="title_activity_list">Omni Notes</string>
+  <string name="title_activity_list">Notes™ Pro</string>
   <string name="search">Hľadať</string>
   <string name="search_hint">Hľadať v poznámkach</string>
   <string name="content">Obsah</string>
@@ -51,7 +51,7 @@
   <string name="note_unarchived">Poznámka bola obnovená z archívu</string>
   <string name="note">Poznámka</string>
   <string name="share_message_chooser">Zdielať prostredníctvom</string>
-  <string name="shared_content_sign">\n【z Omni Notes】</string>
+  <string name="shared_content_sign">\n【z Notes™ Pro】</string>
   <string name="sort">Zoradiť</string>
   <string name="select_sorting_column">Zoradiť podľa</string>
   <string name="tap_to_undo">Klepnite pre návrat</string>
@@ -106,7 +106,7 @@
   <string name="delete_category_confirmation">This category is used by some notes.\nConfirm notes un-categorization and category deletion?</string>
   <string name="discard">Zahodiť</string>
   <string name="remove_category">Odstrániť kategóriu</string>
-  <string name="no_tags_created">No tags available yet\nCreate them by writing hashtags into your notes</string>
+  <string name="no_tags_created">No tags available yet!</string>
   <string name="no_categories_created">Zatiaľ nebola vytvorená žiadna kategória</string>
   <string name="notes_category_removed">Kategória bola odstránená z poznámok</string>
   <string name="notes_categorized_as">Poznámky boli kategorizovaná ako</string>
@@ -126,10 +126,10 @@
   <string name="checklist_keep_checked">Ponechať zaškrtnuté položky</string>
   <string name="checklist_keep_symbols">Ponechať zaškrtávacie značky</string>
   <string name="sketch">Kresba</string>
-  <string name="crash_dialog_text">Niečo sa pokazilo v Omni Notes\nChcete odoslať hlásenie vývojárovi?</string>
+  <string name="crash_dialog_text">Niečo sa pokazilo v Notes™ Pro\nChcete odoslať hlásenie vývojárovi?</string>
   <string name="crash_dialog_comment_prompt">Sem vložte nepovinný komentár:</string>
-  <string name="crash_toast">Vyskytol sa problém v Omni Notes\nHlásenie o páde bolo odoslané vývojárovi!</string>
-  <string name="new_update_available">Nová verzia Omni Notes je k dispozícii, aktualizovať?</string>
+  <string name="crash_toast">Vyskytol sa problém v Notes™ Pro\nHlásenie o páde bolo odoslané vývojárovi!</string>
+  <string name="new_update_available">Nová verzia Notes™ Pro je k dispozícii, aktualizovať?</string>
   <string name="update">Aktualizovať a ohodnotiť</string>
   <string name="not_now">Nie teraz</string>
   <string name="title_activity_sketch">Kresba</string>
@@ -204,7 +204,7 @@
   <string name="info">Informácie</string>
   <string name="completed">Completed</string>
   <!-- Settings -->
-  <string name="dashclock_description">Zobrazí niektoré štatistiky a blížiace sa pripomienky z Omni Notes</string>
+  <string name="dashclock_description">Zobrazí niektoré štatistiky a blížiace sa pripomienky z Notes™ Pro</string>
   <string name="settings">Nastavenia</string>
   <string name="settings_about">Informácie</string>
   <string name="settings_category_other">Ostatné</string>
@@ -356,8 +356,8 @@
   <string name="stats_max_characters">Max chars</string>
   <string name="stats_avg_characters">Average chars</string>
   <!-- Instructions -->
-  <string name="tour_request_start">Spustili ste Omni Notes po prvý krát. Chcete si prezieť prehliadku aplikácie?</string>
-  <string name="tour_listactivity_intro_title">Vitajte v Omni Notes!</string>
+  <string name="tour_request_start">Spustili ste Notes™ Pro po prvý krát. Chcete si prezieť prehliadku aplikácie?</string>
+  <string name="tour_listactivity_intro_title">Vitajte v Notes™ Pro!</string>
   <string name="tour_listactivity_intro_detail">Stlačte \"Pokračovať\" pre pokračovanie v prehliadke</string>
   <string name="tour_listactivity_actions_title">Akcie</string>
   <string name="tour_listactivity_actions_detail">Vytvárajte nové poznámky, zoradujte ich, pristupujte k nastaveniam</string>
@@ -372,14 +372,14 @@
   <string name="tour_detailactivity_reminder_title">Stačí stlačiť</string>
   <string name="tour_detailactivity_reminder_detail">Krátke alebo dlhé stlačenie objektov (prílohy, poloha, pripomienky) má odlišný efekt!</string>
   <string name="tour_detailactivity_links_title">Odkazy</string>
-  <string name="tour_detailactivity_links_detail">URL, e-mail addresses and telephone numbers recognition</string>
+ <string name="tour_detailactivity_links_detail">Add various kinds of media files in your notes</string>
   <string name="tour_detailactivity_swipe_title">Potiahnite</string>
   <string name="tour_detailactivity_swipe_detail">Vytvorte nové poznámky bez \n opustenia tej, ktorú upravujete</string>
   <string name="tour_detailactivity_save_title">Ukladajte</string>
   <string name="tour_detailactivity_save_detail">Jednoducho stlačte ikonu navigácie \"hore\" alebo použite tlačidlo Späť na vašom zariadení</string>
   <string name="tour_listactivity_final_title">Užívajte</string>
-  <string name="tour_listactivity_final_detail">Ďakujeme, že používate Omni Notes. \n\nAlternatíva s otvoreným zdrojovým kódom pre produktivitu a písanie poznámok vo voľnom čase!</string>
-  <string name="tour_community">Prihlásiť sa ku komunite Omni Notes!</string>
+  <string name="tour_listactivity_final_detail">Ďakujeme, že používate Notes™ Pro. \n\nAlternatíva s otvoreným zdrojovým kódom pre produktivitu a písanie poznámok vo voľnom čase!</string>
+  <string name="tour_community">Prihlásiť sa ku komunite Notes™ Pro!</string>
   <!-- Accessibility -->
   <string name="drawer_open">Otvoriť ponuku</string>
   <string name="drawer_close">Zavrieť ponuku</string>

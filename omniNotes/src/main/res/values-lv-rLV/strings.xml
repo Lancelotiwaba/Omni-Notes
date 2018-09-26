@@ -21,7 +21,7 @@
   <string name="title_item_list">Piezīmes</string>
   <string name="add_note">Pievienot piezīmi</string>
   <string name="title">Nosaukums</string>
-  <string name="title_activity_list">Omni Notes</string>
+  <string name="title_activity_list">Notes™ Pro</string>
   <string name="search">Meklēt</string>
   <string name="search_hint">Meklēt piezīmēs</string>
   <string name="content">Saturs</string>
@@ -51,7 +51,7 @@
   <string name="note_unarchived">Piezīme atjaunota no arhīva</string>
   <string name="note">Piezīme</string>
   <string name="share_message_chooser">Kopīgot ar</string>
-  <string name="shared_content_sign">\n【ar Omni Notes】</string>
+  <string name="shared_content_sign">\n【ar Notes™ Pro】</string>
   <string name="sort">Kārtot</string>
   <string name="select_sorting_column">Kārtot pēc</string>
   <string name="tap_to_undo">Nospiediet, lai atsauktu</string>
@@ -106,7 +106,7 @@
   <string name="delete_category_confirmation">This category is used by some notes.\nConfirm notes un-categorization and category deletion?</string>
   <string name="discard">Atmest</string>
   <string name="remove_category">Noņemt kategoriju</string>
-  <string name="no_tags_created">No tags available yet\nCreate them by writing hashtags into your notes</string>
+  <string name="no_tags_created">No tags available yet!</string>
   <string name="no_categories_created">Neviena kategorija vēl nav izveidota</string>
   <string name="notes_category_removed">Kategorija noņemta no piezīmēm</string>
   <string name="notes_categorized_as">Piezīmes atrodas zem šādām kategorijām</string>
@@ -126,10 +126,10 @@
   <string name="checklist_keep_checked">Paturēt atzīmētos vienumus</string>
   <string name="checklist_keep_symbols">Paturēt ķekšus</string>
   <string name="sketch">Zīmējums</string>
-  <string name="crash_dialog_text">Kaut kas nogāja greizi lietotnē Omni Notes\nVai nosūtīt automātisku ziņojumu izstrādātājam?</string>
+  <string name="crash_dialog_text">Kaut kas nogāja greizi lietotnē Notes™ Pro\nVai nosūtīt automātisku ziņojumu izstrādātājam?</string>
   <string name="crash_dialog_comment_prompt">Pievienojiet komentāru šeit (nav obligāts):</string>
-  <string name="crash_toast">Kaut kas nogāja greizi lietotnē Omni Notes\nKļūdas ziņojums ir nosūtīts izstrādātājam!</string>
-  <string name="new_update_available">Ir pieejama jauna lietotnes Omni Notes versija, vai vēlaties atjaunināt?</string>
+  <string name="crash_toast">Kaut kas nogāja greizi lietotnē Notes™ Pro\nKļūdas ziņojums ir nosūtīts izstrādātājam!</string>
+  <string name="new_update_available">Ir pieejama jauna lietotnes Notes™ Pro versija, vai vēlaties atjaunināt?</string>
   <string name="update">Atjauniniet un novērtējiet!</string>
   <string name="not_now">Ne tagad</string>
   <string name="title_activity_sketch">Zīmējums</string>
@@ -204,7 +204,7 @@
   <string name="info">Informācija</string>
   <string name="completed">Completed</string>
   <!-- Settings -->
-  <string name="dashclock_description">Parāda nedaudz statistikas un izbeigušos atgādinājumus no Omni Notes</string>
+  <string name="dashclock_description">Parāda nedaudz statistikas un izbeigušos atgādinājumus no Notes™ Pro</string>
   <string name="settings">Iestatījumi</string>
   <string name="settings_about">Informācija</string>
   <string name="settings_category_other">Citi</string>
@@ -235,15 +235,15 @@
   <string name="settings_enable_vibration">Vibration</string>
   <string name="settings_notification_enable_boot_persistence">Enable notifications persistence</string>
   <string name="settings_notification_enable_boot_persistence_summary">Allow the app to access notifications to make they survive to reboots</string>
-  <string name="settings_screen_navigation">Navigation</string>
+  <string name="settings_screen_navigation">Menu Options</string>
   <string name="settings_changelog">Izmaiņu žurnāls</string>
   <string name="settings_enable_editor_links">Links recognition</string>
   <string name="settings_max_video_size">Video pielikumi</string>
-  <string name="settings_screen_data">Data</string>
+  <string name="settings_screen_data">Backup &amp; Password</string>
   <string name="settings_backup">Backup</string>
   <string name="settings_password">Password</string>
   <string name="settings_password_access">Request password on access</string>
-  <string name="settings_password_instructions">Password ensures that notes won\'t be viewed or modified by other persons.\n\nWhen setting a new password, the previous one will be requested.</string>
+  <string name="settings_password_instructions">Create a password to secure your notes!</string>
   <string name="settings_password_not_matching">Wrong or missing password</string>
   <string name="insert_new_password">Insert a new password</string>
   <string name="confirm_new_password">Confirm the new password</string>
@@ -356,29 +356,29 @@
   <string name="stats_max_characters">Max chars</string>
   <string name="stats_avg_characters">Average chars</string>
   <!-- Instructions -->
-  <string name="tour_request_start">Jūs esat pirmo reizi atvēris lietotni Omni Notes. Vai vēlaties veikt lietotnes ekskursiju?</string>
-  <string name="tour_listactivity_intro_title">Esat sveicināti Omni Notes!</string>
+  <string name="tour_request_start">Jūs esat pirmo reizi atvēris lietotni Notes™ Pro. Vai vēlaties veikt lietotnes ekskursiju?</string>
+  <string name="tour_listactivity_intro_title">Esat sveicināti Notes™ Pro!</string>
   <string name="tour_listactivity_intro_detail">spiediet \"Turpināt\", lai dotos tālāk</string>
   <string name="tour_listactivity_actions_title">Darbības</string>
   <string name="tour_listactivity_actions_detail">Veidojiet jaunas piezīmes, kārtojiet tās, piekļūstiet iestatījumiem</string>
-  <string name="tour_listactivity_home_title">Navigate</string>
+  <string name="tour_listactivity_home_title">Navigation Menu</string>
   <string name="tour_listactivity_home_detail">Navigation menu allows you to move through notes with filters and categories</string>
   <string name="tour_listactivity_tag_title">Birkas</string>
   <string name="tour_listactivity_tag_detail">Add colored categories to organize notes at-a-glance</string>
-  <string name="tour_detailactivity_attachment_title">Improve</string>
+  <string name="tour_detailactivity_attachment_title">Attachments</string>
   <string name="tour_detailactivity_attachment_detail">Add attachment of several kinds to your notes!</string>
   <string name="tour_detailactivity_action_title">Do more</string>
   <string name="tour_detailactivity_action_detail">Share, tag, archive, protect, and more&#8230;</string>
   <string name="tour_detailactivity_reminder_title">Just press</string>
   <string name="tour_detailactivity_reminder_detail">Long pression have different effects on an object (attachment, location, reminder) than short pression!</string>
-  <string name="tour_detailactivity_links_title">Links</string>
-  <string name="tour_detailactivity_links_detail">URL, e-mail addresses and telephone numbers recognition</string>
+  <string name="tour_detailactivity_links_title">Media Linkage</string>
+ <string name="tour_detailactivity_links_detail">Add various kinds of media files in your notes</string>
   <string name="tour_detailactivity_swipe_title">Swipe</string>
   <string name="tour_detailactivity_swipe_detail">Create new notes without \n leaving the one you\'re editing</string>
   <string name="tour_detailactivity_save_title">Saglabāt</string>
   <string name="tour_detailactivity_save_detail">To go back, press the \"up\" navigation icon, or your device button</string>
   <string name="tour_listactivity_final_title">Enjoy</string>
-  <string name="tour_listactivity_final_detail">Thanks for using Omni Notes \nThe opensource alternative for productivity and leisure note-taking!</string>
+  <string name="tour_listactivity_final_detail">Thanks for using Notes™ Pro \nThe proprietary alternative for productivity and leisure note-taking!</string>
   <string name="tour_community">Subscribe to the community to participate!</string>
   <!-- Accessibility -->
   <string name="drawer_open">drawer open</string>

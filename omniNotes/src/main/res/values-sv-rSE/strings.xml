@@ -21,7 +21,7 @@
   <string name="title_item_list">Anteckningar</string>
   <string name="add_note">Lägg till Anteckning</string>
   <string name="title">Titel</string>
-  <string name="title_activity_list">Omni Notes</string>
+  <string name="title_activity_list">Notes™ Pro</string>
   <string name="search">Sök</string>
   <string name="search_hint">Sök i anteckningar</string>
   <string name="content">Innehåll</string>
@@ -51,7 +51,7 @@
   <string name="note_unarchived">Anteckning återställd från arkiv</string>
   <string name="note">Anteckning</string>
   <string name="share_message_chooser">Dela med</string>
-  <string name="shared_content_sign">\n 【av Omni Notes】</string>
+  <string name="shared_content_sign">\n 【av Notes™ Pro】</string>
   <string name="sort">Sortera</string>
   <string name="select_sorting_column">Sortera efter</string>
   <string name="tap_to_undo">Tryck för att ångra</string>
@@ -126,10 +126,10 @@
   <string name="checklist_keep_checked">Behåll markerade objekt</string>
   <string name="checklist_keep_symbols">Behåll bockar (för att komma ihåg bockade)</string>
   <string name="sketch">Skiss</string>
-  <string name="crash_dialog_text">Någonting har gått fel i Omni Notes\n Vill du skicka en rapport till utvecklaren?</string>
+  <string name="crash_dialog_text">Någonting har gått fel i Notes™ Pro\n Vill du skicka en rapport till utvecklaren?</string>
   <string name="crash_dialog_comment_prompt">Skriv en alternativ kommentar här:</string>
   <string name="crash_toast">Något gick fel i Onmi Notes\nEn rapport har skickats till utvecklaren!</string>
-  <string name="new_update_available">En ny version av Omni Notes finns tillgänglig, vill du uppdatera?</string>
+  <string name="new_update_available">En ny version av Notes™ Pro finns tillgänglig, vill du uppdatera?</string>
   <string name="update">Uppdatera och betygsätt!</string>
   <string name="not_now">Inte nu</string>
   <string name="title_activity_sketch">Skiss</string>
@@ -204,7 +204,7 @@
   <string name="info">Information</string>
   <string name="completed">Completed</string>
   <!-- Settings -->
-  <string name="dashclock_description">Visar statistik och närliggande påminnelser från Omni Tools</string>
+  <string name="dashclock_description">Visar statistik och närliggande påminnelser från Notes™ Pro Tools</string>
   <string name="settings">Inställningar</string>
   <string name="settings_about">Informatr</string>
   <string name="settings_category_other">Annat</string>
@@ -239,7 +239,7 @@
   <string name="settings_changelog">Ändringslogg</string>
   <string name="settings_enable_editor_links">Länk igenkänning</string>
   <string name="settings_max_video_size">Videobilagor</string>
-  <string name="settings_screen_data">Data</string>
+  <string name="settings_screen_data">Backup &amp; Password</string>
   <string name="settings_backup">Säkerhetskopiera</string>
   <string name="settings_password">Lösenord</string>
   <string name="settings_password_access">Begär lösenord för att få tillgång</string>
@@ -356,8 +356,8 @@
   <string name="stats_max_characters">Max tecken</string>
   <string name="stats_avg_characters">Genomsnittliga tecken</string>
   <!-- Instructions -->
-  <string name="tour_request_start">Detta är första gången du kör Omni Tools, vill du få en genomgång av applikationen?</string>
-  <string name="tour_listactivity_intro_title">Välkommen till Omni Notes!</string>
+  <string name="tour_request_start">Detta är första gången du kör Notes™ Pro Tools, vill du få en genomgång av applikationen?</string>
+  <string name="tour_listactivity_intro_title">Välkommen till Notes™ Pro!</string>
   <string name="tour_listactivity_intro_detail">Tryck \"Fortsätt\" för att fortsätta touren</string>
   <string name="tour_listactivity_actions_title">Val</string>
   <string name="tour_listactivity_actions_detail">Skapa nya anteckningar, sortera dem, kom åt preferenserna</string>
@@ -372,13 +372,13 @@
   <string name="tour_detailactivity_reminder_title">Bara tryck</string>
   <string name="tour_detailactivity_reminder_detail">Korta  eller långa funktioner på objekt (bifogningar, plats, påminnelse) har ny effekt!</string>
   <string name="tour_detailactivity_links_title">Länkar</string>
-  <string name="tour_detailactivity_links_detail">URL, e-mail addresses and telephone numbers recognition</string>
+ <string name="tour_detailactivity_links_detail">Add various kinds of media files in your notes</string>
   <string name="tour_detailactivity_swipe_title">Dra</string>
   <string name="tour_detailactivity_swipe_detail">Skapa nya anteckningar \n utan att stänga den du skriver</string>
   <string name="tour_detailactivity_save_title">Spara</string>
   <string name="tour_detailactivity_save_detail">Tryck helt enkelt på navigationsikonen som pekar \"Upp\" eller gå tillbaka med din Androids tillbakaknapp</string>
   <string name="tour_listactivity_final_title">Njut!</string>
-  <string name="tour_listactivity_final_detail">Tack för att du använder Omni Notes \nOpen-source alternativet för produktivitets- och fritidsanteckningar!</string>
+  <string name="tour_listactivity_final_detail">Tack för att du använder Notes™ Pro \nOpen-source alternativet för produktivitets- och fritidsanteckningar!</string>
   <string name="tour_community">Prenumerera till gemenskapen för att delta!</string>
   <!-- Accessibility -->
   <string name="drawer_open">drawer öppen</string>

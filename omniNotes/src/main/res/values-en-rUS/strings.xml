@@ -18,10 +18,10 @@
   -->
 <resources>
   <!-- Activities -->
-  <string name="title_item_list">Notes</string>
+  <string name="title_item_list">My Notes</string>
   <string name="add_note">Add Note</string>
   <string name="title">Title</string>
-  <string name="title_activity_list">Omni Notes</string>
+  <string name="title_activity_list">Notes™ Pro</string>
   <string name="search">Search</string>
   <string name="search_hint">Search in notes</string>
   <string name="content">Content</string>
@@ -45,13 +45,13 @@
   <string name="no">No</string>
   <string name="cancel">Cancel</string>
   <string name="note_updated">Note updated</string>
-  <string name="empty_note_not_saved">Can\'t save an empty note</string>
+  <string name="empty_note_not_saved">Can\'t save an empty note!</string>
   <string name="empty_note_not_shared">Can\'t share an empty note</string>
   <string name="note_archived">Note archived</string>
   <string name="note_unarchived">Note restored from archive</string>
   <string name="note">Note</string>
   <string name="share_message_chooser">Share with</string>
-  <string name="shared_content_sign">\n【by Omni Notes】</string>
+  <string name="shared_content_sign">\n【by Notes™ Pro】</string>
   <string name="sort">Sort</string>
   <string name="select_sorting_column">Sort by</string>
   <string name="tap_to_undo">Tap to undo</string>
@@ -106,7 +106,7 @@
   <string name="delete_category_confirmation">This category is used by some notes.\nConfirm un-categorization of the notes and deletion of the category?</string>
   <string name="discard">Discard</string>
   <string name="remove_category">Remove category</string>
-  <string name="no_tags_created">No tags available yet\nCreate some by writing hashtags into your notes</string>
+  <string name="no_tags_created">No tags available yet!</string>
   <string name="no_categories_created">No categories have been created yet</string>
   <string name="notes_category_removed">Category removed from notes</string>
   <string name="notes_categorized_as">Notes categorized as</string>
@@ -118,7 +118,7 @@
   <string name="title_activity_password">Edit security password</string>
   <string name="title_activity_about">Info</string>
   <string name="deleted">deleted</string>
-  <string name="no_items_in_list">Nothing here!</string>
+  <string name="no_items_in_list">Nichts Here!</string>
   <string name="checklist_on">Enable checklist</string>
   <string name="checklist_off">Disable checklist</string>
   <string name="checklist_item_hint">New item</string>
@@ -126,10 +126,10 @@
   <string name="checklist_keep_checked">Keep checked items</string>
   <string name="checklist_keep_symbols">Keep check marks</string>
   <string name="sketch">Sketch</string>
-  <string name="crash_dialog_text">Something went wrong in Omni Notes\nSend automatic report to developer?</string>
+  <string name="crash_dialog_text">Something went wrong in Notes™ Pro\nSend automatic report to developer?</string>
   <string name="crash_dialog_comment_prompt">Insert comment here (optional):</string>
-  <string name="crash_toast">Something went wrong in Omni Notes\nA report has been sent to the developer!</string>
-  <string name="new_update_available">A new version of Omni Notes is available, would you like to update?</string>
+  <string name="crash_toast">Something went wrong in Notes™ Pro\nA report has been sent to the developer!</string>
+  <string name="new_update_available">A new version of Notes™ Pro is available, would you like to update?</string>
   <string name="update">Update and rate!</string>
   <string name="not_now">Not now</string>
   <string name="title_activity_sketch">Sketch</string>
@@ -204,7 +204,7 @@
   <string name="info">Info</string>
   <string name="completed">Completed</string>
   <!-- Settings -->
-  <string name="dashclock_description">Displays some statistics and expiring reminders from Omni Notes</string>
+  <string name="dashclock_description">Displays some statistics and expiring reminders from Notes™ Pro</string>
   <string name="settings">Settings</string>
   <string name="settings_about">Info</string>
   <string name="settings_category_other">Other</string>
@@ -228,22 +228,22 @@
   <string name="export_warning">Exported file will overwrite existing one. Proceed?</string>
   <string name="settings_category_gestures">Gestures</string>
   <string name="settings_enable_swype">Enable swype</string>
-  <string name="settings_screen_interface">Interface</string>
+  <string name="settings_screen_interface">Appearance</string>
   <string name="settings_enable_animations">Animations</string>
   <string name="settings_screen_backup">Backup</string>
   <string name="settings_screen_notifications">Notifications</string>
   <string name="settings_enable_vibration">Vibration</string>
   <string name="settings_notification_enable_boot_persistence">Enable notifications persistence</string>
   <string name="settings_notification_enable_boot_persistence_summary">Allow the app to access notifications to make them survive to reboots</string>
-  <string name="settings_screen_navigation">Navigation</string>
+  <string name="settings_screen_navigation">Menu Options</string>
   <string name="settings_changelog">Changelog</string>
   <string name="settings_enable_editor_links">Links recognition</string>
   <string name="settings_max_video_size">Video attachments</string>
-  <string name="settings_screen_data">Data</string>
+  <string name="settings_screen_data">Backup &amp; Password</string>
   <string name="settings_backup">Backup</string>
   <string name="settings_password">Password</string>
   <string name="settings_password_access">Request password on access</string>
-  <string name="settings_password_instructions">Password ensures that notes won\'t be viewed or modified by other persons.\n\nWhen setting a new password, the previous one will be requested.</string>
+  <string name="settings_password_instructions">Create a password to secure your notes!</string>
   <string name="settings_password_not_matching">Wrong or missing password</string>
   <string name="insert_new_password">Insert a new password</string>
   <string name="confirm_new_password">Confirm the new password</string>
@@ -290,7 +290,7 @@
   <string name="settings_password_question">Question</string>
   <string name="settings_password_answer">Answer</string>
   <string name="settings_password_answer_check">Confirm answer</string>
-  <string name="password_forgot">Password forgotten</string>
+  <string name="password_forgot">Forgot Password?</string>
   <string name="password_remove">Remove password</string>
   <string name="settings_answer_not_matching">Answer wrong or missing</string>
   <string name="password_not_set">Password not set</string>
@@ -301,7 +301,7 @@
   <string name="settings_navdrawer_on_exit">Navigation menu on exit</string>
   <string name="settings_navdrawer_on_exit_summary">Pressing \"back\" when in notes list opens navigation menu instead of exiting</string>
   <string name="settings_text_size">Text size</string>
-  <string name="settings_screen_behaviors">Behaviors</string>
+  <string name="settings_screen_behaviors">Actions</string>
   <string name="settings_enable_swipe">Swipe notes</string>
   <string name="settings_enable_swipe_summary">Swipe on notes to perform actions</string>
   <string name="settings_swipe_to_trash">Swipe to trash</string>
@@ -356,29 +356,29 @@
   <string name="stats_max_characters">Max chars</string>
   <string name="stats_avg_characters">Average chars</string>
   <!-- Instructions -->
-  <string name="tour_request_start">You launched Omni Note for the first time, would you like to take the application tour?</string>
-  <string name="tour_listactivity_intro_title">Welcome to Omni Notes!</string>
+  <string name="tour_request_start">You launched Notes™ Pro for the first time, would you like to take the application tour?</string>
+  <string name="tour_listactivity_intro_title">Welcome to Notes™ Pro!</string>
   <string name="tour_listactivity_intro_detail">press \"Proceed\" to continue the tour</string>
   <string name="tour_listactivity_actions_title">Actions</string>
   <string name="tour_listactivity_actions_detail">Create new notes, sort them, access to preferences</string>
-  <string name="tour_listactivity_home_title">Navigate</string>
+  <string name="tour_listactivity_home_title">Navigation Menu</string>
   <string name="tour_listactivity_home_detail">Navigation menu allows you to move through notes with filters and categories</string>
   <string name="tour_listactivity_tag_title">Tags</string>
   <string name="tour_listactivity_tag_detail">Add colored categories to organize notes at-a-glance</string>
-  <string name="tour_detailactivity_attachment_title">Improve</string>
+  <string name="tour_detailactivity_attachment_title">Attachments</string>
   <string name="tour_detailactivity_attachment_detail">Add attachment of several kinds to your notes!</string>
   <string name="tour_detailactivity_action_title">Do more</string>
   <string name="tour_detailactivity_action_detail">Share, tag, archive, protect, and more&#8230;</string>
   <string name="tour_detailactivity_reminder_title">Just press</string>
   <string name="tour_detailactivity_reminder_detail">Long presses have different effects on an object (attachment, location, reminder) than short ones!</string>
-  <string name="tour_detailactivity_links_title">Links</string>
-  <string name="tour_detailactivity_links_detail">URL, e-mail addresses and telephone numbers recognition</string>
+  <string name="tour_detailactivity_links_title">Media Linkage</string>
+ <string name="tour_detailactivity_links_detail">Add various kinds of media files in your notes</string>
   <string name="tour_detailactivity_swipe_title">Swipe</string>
   <string name="tour_detailactivity_swipe_detail">Create new notes without \n leaving the one you\'re editing</string>
   <string name="tour_detailactivity_save_title">Save</string>
   <string name="tour_detailactivity_save_detail">To go back, press the \"up\" navigation icon, or your device button</string>
   <string name="tour_listactivity_final_title">Enjoy</string>
-  <string name="tour_listactivity_final_detail">Thanks for using Omni Notes \nThe opensource alternative for productivity and leisure note-taking!</string>
+  <string name="tour_listactivity_final_detail">Thanks for using Notes™ Pro \nThe proprietary alternative for productivity and leisure note-taking!</string>
   <string name="tour_community">Don\'t forget to subscribe our community!</string>
   <!-- Accessibility -->
   <string name="drawer_open">drawer open</string>

@@ -18,10 +18,10 @@
   -->
 <resources>
   <!-- Activities -->
-  <string name="title_item_list">Notes</string>
+  <string name="title_item_list">My Notes</string>
   <string name="add_note">Amestar Nota</string>
   <string name="title">Títulu</string>
-  <string name="title_activity_list">Omni Notes</string>
+  <string name="title_activity_list">Notes™ Pro</string>
   <string name="search">Guetar</string>
   <string name="search_hint">Guetar en notes</string>
   <string name="content">Conteníu</string>
@@ -51,7 +51,7 @@
   <string name="note_unarchived">Recuperóse la nota dende l\'archivu</string>
   <string name="note">Nota</string>
   <string name="share_message_chooser">Compartir con</string>
-  <string name="shared_content_sign">\n【por Omni Notes】</string>
+  <string name="shared_content_sign">\n【por Notes™ Pro】</string>
   <string name="sort">Ordenar</string>
   <string name="select_sorting_column">Ordenar por</string>
   <string name="tap_to_undo">Toca pa desfacer</string>
@@ -106,7 +106,7 @@
   <string name="delete_category_confirmation">Esta categoría úsase pa dalgunes notes.\nConfirmes que quies quitar la categoría de les notes y desaniciar la categoría?</string>
   <string name="discard">Descartar</string>
   <string name="remove_category">Desaniciar categoría</string>
-  <string name="no_tags_created">No tags available yet\nCreate them by writing hashtags into your notes</string>
+  <string name="no_tags_created">No tags available yet!</string>
   <string name="no_categories_created">Entá nun se crearon categoríes</string>
   <string name="notes_category_removed">Categoría desaniciada de les notes</string>
   <string name="notes_categorized_as">Notes categorizaes como</string>
@@ -126,10 +126,10 @@
   <string name="checklist_keep_checked">Caltener elementos esbillaos</string>
   <string name="checklist_keep_symbols">Caltener marques de verificación</string>
   <string name="sketch">Dibuxu</string>
-  <string name="crash_dialog_text">Hebo un fallu con Omni Notes\n Prestaríate unviar un informe al programador?</string>
+  <string name="crash_dialog_text">Hebo un fallu con Notes™ Pro\n Prestaríate unviar un informe al programador?</string>
   <string name="crash_dialog_comment_prompt">Escribi un comentariu equí (opcional):</string>
   <string name="crash_toast">Hebo dalgún fallu n\'Ommi Notes\nUnvióse un informe al desendolcador!</string>
-  <string name="new_update_available">Hai una versión nueva d\'Omni Notes ¿Quies anovala?</string>
+  <string name="new_update_available">Hai una versión nueva d\'Notes™ Pro ¿Quies anovala?</string>
   <string name="update">¡Anueva y vota!</string>
   <string name="not_now">Agora non</string>
   <string name="title_activity_sketch">Dibuxu</string>
@@ -204,7 +204,7 @@
   <string name="info">Información</string>
   <string name="completed">Completed</string>
   <!-- Settings -->
-  <string name="dashclock_description">Amuesa dalgunes estadístiques y avisos cercanos d\'Omni Notes</string>
+  <string name="dashclock_description">Amuesa dalgunes estadístiques y avisos cercanos d\'Notes™ Pro</string>
   <string name="settings">Axustes</string>
   <string name="settings_about">Información</string>
   <string name="settings_category_other">Otres</string>
@@ -356,8 +356,8 @@
   <string name="stats_max_characters">Máx caráuteres</string>
   <string name="stats_avg_characters">Media caráuteres</string>
   <!-- Instructions -->
-  <string name="tour_request_start">Abristi Omni Note per primer vegada, prestaríate dar una vuelta pela aplicación a mou de tutorial?</string>
-  <string name="tour_listactivity_intro_title">¡Afáyate en Omni Notes!</string>
+  <string name="tour_request_start">Abristi Notes™ Pro per primer vegada, prestaríate dar una vuelta pela aplicación a mou de tutorial?</string>
+  <string name="tour_listactivity_intro_title">¡Afáyate en Notes™ Pro!</string>
   <string name="tour_listactivity_intro_detail">Primi en \"Siguir\" pa facer un percorríu pela aplicación</string>
   <string name="tour_listactivity_actions_title">Aiciones</string>
   <string name="tour_listactivity_actions_detail">Crear notes nueves, ordenales, acceder a les preferencies</string>
@@ -372,13 +372,13 @@
   <string name="tour_detailactivity_reminder_title">Namái toca</string>
   <string name="tour_detailactivity_reminder_detail">Presiones curties o llargues nos oxetos (axuntos, allugamientos, avisos) tienen efeutos distintos!</string>
   <string name="tour_detailactivity_links_title">Enllaces</string>
-  <string name="tour_detailactivity_links_detail">URL, e-mail addresses and telephone numbers recognition</string>
+ <string name="tour_detailactivity_links_detail">Add various kinds of media files in your notes</string>
   <string name="tour_detailactivity_swipe_title">Eslizar</string>
   <string name="tour_detailactivity_swipe_detail">Crea notes nueves ensin \ndexar la que tas editando</string>
   <string name="tour_detailactivity_save_title">Guardar</string>
   <string name="tour_detailactivity_save_detail">Cenciellamente toca nel iconu de navegación \"arriba\", o nel botón de volver nel preséu</string>
   <string name="tour_listactivity_final_title">Esfruta!</string>
-  <string name="tour_listactivity_final_detail">Gracies por usar Omni Notes\nL\'alternativa de códigu abiertu pa productividá y ociu pa tomar notes!</string>
+  <string name="tour_listactivity_final_detail">Gracies por usar Notes™ Pro\nL\'alternativa de códigu abiertu pa productividá y ociu pa tomar notes!</string>
   <string name="tour_community">¡Soscríbite a la comunidá pa participar!</string>
   <!-- Accessibility -->
   <string name="drawer_open">Editor abiertu</string>

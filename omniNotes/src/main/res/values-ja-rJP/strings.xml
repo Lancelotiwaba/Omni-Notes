@@ -21,7 +21,7 @@
   <string name="title_item_list">ノート</string>
   <string name="add_note">ノートを追加</string>
   <string name="title">タイトル</string>
-  <string name="title_activity_list">Omni Notes</string>
+  <string name="title_activity_list">Notes™ Pro</string>
   <string name="search">検索</string>
   <string name="search_hint">ノート内を検索</string>
   <string name="content">内容</string>
@@ -51,7 +51,7 @@
   <string name="note_unarchived">ノートをアーカイブから復元しました</string>
   <string name="note">ノート</string>
   <string name="share_message_chooser">...で共有</string>
-  <string name="shared_content_sign">\n【by Omni Notes】</string>
+  <string name="shared_content_sign">\n【by Notes™ Pro】</string>
   <string name="sort">並べ替え</string>
   <string name="select_sorting_column">並べ替え方法</string>
   <string name="tap_to_undo">タップすると元に戻します</string>
@@ -126,10 +126,10 @@
   <string name="checklist_keep_checked">チェックした項目を保持</string>
   <string name="checklist_keep_symbols">チェック マークを保持</string>
   <string name="sketch">スケッチ</string>
-  <string name="crash_dialog_text">Omni Notes に何か問題があります\n開発者へ自動的にレポートを送信しますか?</string>
+  <string name="crash_dialog_text">Notes™ Pro に何か問題があります\n開発者へ自動的にレポートを送信しますか?</string>
   <string name="crash_dialog_comment_prompt">ここにコメントを入力してください (オプション):</string>
-  <string name="crash_toast">Omni Notes に何か問題がありました\n開発者にレポートを送信しました!</string>
-  <string name="new_update_available">新しいバージョンの Omni Notes が利用可能です。更新しますか?</string>
+  <string name="crash_toast">Notes™ Pro に何か問題がありました\n開発者にレポートを送信しました!</string>
+  <string name="new_update_available">新しいバージョンの Notes™ Pro が利用可能です。更新しますか?</string>
   <string name="update">更新して評価する!</string>
   <string name="not_now">今はしない</string>
   <string name="title_activity_sketch">スケッチ</string>
@@ -204,7 +204,7 @@
   <string name="info">情報</string>
   <string name="completed">完了</string>
   <!-- Settings -->
-  <string name="dashclock_description">統計情報と Omni Notes から期限切れのアラームを表示します</string>
+  <string name="dashclock_description">統計情報と Notes™ Pro から期限切れのアラームを表示します</string>
   <string name="settings">設定</string>
   <string name="settings_about">情報</string>
   <string name="settings_category_other">その他</string>
@@ -356,8 +356,8 @@
   <string name="stats_max_characters">最大文字数</string>
   <string name="stats_avg_characters">平均文字数</string>
   <!-- Instructions -->
-  <string name="tour_request_start">Omni Notes をはじめて起動しました。アプリケーション ツアーを表示しますか?</string>
-  <string name="tour_listactivity_intro_title">Omni Notes へようこそ!</string>
+  <string name="tour_request_start">Notes™ Pro をはじめて起動しました。アプリケーション ツアーを表示しますか?</string>
+  <string name="tour_listactivity_intro_title">Notes™ Pro へようこそ!</string>
   <string name="tour_listactivity_intro_detail">\"続行\" を押すと、ツアーを続行します</string>
   <string name="tour_listactivity_actions_title">アクション</string>
   <string name="tour_listactivity_actions_detail">新しいノートの作成、並べ替え、プリファレンスにアクセス</string>
@@ -378,7 +378,7 @@
   <string name="tour_detailactivity_save_title">保存</string>
   <string name="tour_detailactivity_save_detail">\"上\" のナビゲーション アイコン、またはデバイスのボタンを押すと、戻ることができます</string>
   <string name="tour_listactivity_final_title">お楽しみください</string>
-  <string name="tour_listactivity_final_detail">Omni Notes をご利用ありがとうございます \n効率的かつ快適にノートをとることができるオープン ソースです!</string>
+  <string name="tour_listactivity_final_detail">Notes™ Pro をご利用ありがとうございます \n効率的かつ快適にノートをとることができるオープン ソースです!</string>
   <string name="tour_community">コミュニティに登録して、参加します!</string>
   <!-- Accessibility -->
   <string name="drawer_open">ドロワーを開く</string>

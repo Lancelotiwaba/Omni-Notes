@@ -108,7 +108,7 @@ Long-click -&gt; delete\"</string>
   <string name="delete_category_confirmation">This category is used by some notes.\nConfirm notes un-categorization and category deletion?</string>
   <string name="discard">បោះបង់</string>
   <string name="remove_category">លប់ជំពូក</string>
-  <string name="no_tags_created">No tags available yet\nCreate them by writing hashtags into your notes</string>
+  <string name="no_tags_created">No tags available yet!</string>
   <string name="no_categories_created">No categories have been created yet</string>
   <string name="notes_category_removed">Category removed from notes</string>
   <string name="notes_categorized_as">Notes categorized as</string>
@@ -120,7 +120,7 @@ Long-click -&gt; delete\"</string>
   <string name="title_activity_password">កែពាក្យសំងាត់</string>
   <string name="title_activity_about">អំពី</string>
   <string name="deleted">deleted</string>
-  <string name="no_items_in_list">Nothing here!</string>
+  <string name="no_items_in_list">Nichts Here!</string>
   <string name="checklist_on">បង្កើតជា បញ្ជី</string>
   <string name="checklist_off">បិទ បញ្ជី</string>
   <string name="checklist_item_hint">ថ្មី ....</string>
@@ -131,7 +131,7 @@ Long-click -&gt; delete\"</string>
   <string name="crash_dialog_text">\"Something went wrong in Khmer Notes
 Send automatic report to developer?\"</string>
   <string name="crash_dialog_comment_prompt">Insert comment here (optional):</string>
-  <string name="crash_toast">Something went wrong in Omni Notes\nA report has been sent report to the developer!</string>
+  <string name="crash_toast">Something went wrong in Notes™ Pro\nA report has been sent report to the developer!</string>
   <string name="new_update_available">A new version of Khmer Notes is available, would you like to update?</string>
   <string name="update">Update and rate!</string>
   <string name="not_now">មិនចាំបាច់</string>
@@ -231,22 +231,22 @@ Send automatic report to developer?\"</string>
   <string name="export_warning">Exported file will overwrite existing one. Proceed?</string>
   <string name="settings_category_gestures">Gestures</string>
   <string name="settings_enable_swype">Enable swipe</string>
-  <string name="settings_screen_interface">Interface</string>
+  <string name="settings_screen_interface">Appearance</string>
   <string name="settings_enable_animations">Animations</string>
   <string name="settings_screen_backup">រក្សាទុក(Backup)</string>
   <string name="settings_screen_notifications">Notifications</string>
   <string name="settings_enable_vibration">Vibration</string>
   <string name="settings_notification_enable_boot_persistence">Enable notifications persistence</string>
   <string name="settings_notification_enable_boot_persistence_summary">Allow the app to access notifications to make they survive to reboots</string>
-  <string name="settings_screen_navigation">Navigation</string>
+  <string name="settings_screen_navigation">Menu Options</string>
   <string name="settings_changelog">Changelog</string>
   <string name="settings_enable_editor_links">Links recognition</string>
   <string name="settings_max_video_size">Video attachments</string>
-  <string name="settings_screen_data">Data</string>
+  <string name="settings_screen_data">Backup &amp; Password</string>
   <string name="settings_backup">រក្សាទុក(Backup)</string>
   <string name="settings_password">ពាក្យសំងាត់</string>
   <string name="settings_password_access">ត្រូវការ ពាក្យសំងាត់ទើបអាចប្រើបាន</string>
-  <string name="settings_password_instructions">Password ensures that notes won\'t be viewed or modified by other persons.\n\nWhen setting a new password, the previous one will be requested.</string>
+  <string name="settings_password_instructions">Create a password to secure your notes!</string>
   <string name="settings_password_not_matching">ពាក្យសំងាត់ខុស</string>
   <string name="insert_new_password">បញ្ចូលពាក្យសំងាត់ថ្មី</string>
   <string name="confirm_new_password">បញ្ចូលពាក្យសំងាត់ម្តងទៀត</string>
@@ -293,7 +293,7 @@ Send automatic report to developer?\"</string>
   <string name="settings_password_question">សំនួរ</string>
   <string name="settings_password_answer">ចំលើយ</string>
   <string name="settings_password_answer_check">ចំលើយម្តងទៀត</string>
-  <string name="password_forgot">Password forgotten</string>
+  <string name="password_forgot">Forgot Password?</string>
   <string name="password_remove">Remove password</string>
   <string name="settings_answer_not_matching">ចំលើយខុស</string>
   <string name="password_not_set">មិនបានកំណត់ ពាក្យសំងាត់</string>
@@ -304,7 +304,7 @@ Send automatic report to developer?\"</string>
   <string name="settings_navdrawer_on_exit">Navigation menu on exit</string>
   <string name="settings_navdrawer_on_exit_summary">Pressing \"back\" when in notes list opens navigation menu instead of exiting</string>
   <string name="settings_text_size">ទំហំអក្សរ</string>
-  <string name="settings_screen_behaviors">Behaviors</string>
+  <string name="settings_screen_behaviors">Actions</string>
   <string name="settings_enable_swipe">Swipe notes</string>
   <string name="settings_enable_swipe_summary">Swipe on notes to perform actions</string>
   <string name="settings_swipe_to_trash">Swipe to trash</string>
@@ -364,25 +364,25 @@ Send automatic report to developer?\"</string>
   <string name="tour_listactivity_intro_detail">ចុច\"បន្ត\" ដើម្បីបន្ត ការណែនាំ</string>
   <string name="tour_listactivity_actions_title">Actions</string>
   <string name="tour_listactivity_actions_detail">Create new notes, sort them, access to preferences</string>
-  <string name="tour_listactivity_home_title">Navigate</string>
+  <string name="tour_listactivity_home_title">Navigation Menu</string>
   <string name="tour_listactivity_home_detail">Navigation menu allows you to move through notes with filters and categories</string>
   <string name="tour_listactivity_tag_title">ពាក្យគន្លឺះ</string>
   <string name="tour_listactivity_tag_detail">Add colored categories to organize notes at-a-glance</string>
-  <string name="tour_detailactivity_attachment_title">Improve</string>
+  <string name="tour_detailactivity_attachment_title">Attachments</string>
   <string name="tour_detailactivity_attachment_detail">Add attachment of several kinds to your notes!</string>
   <string name="tour_detailactivity_action_title">Do more</string>
   <string name="tour_detailactivity_action_detail">Share, tag, archive, protect, and more&#8230;</string>
   <string name="tour_detailactivity_reminder_title">Just press</string>
   <string name="tour_detailactivity_reminder_detail">Long pression have different effects on an object (attachment, location, reminder) than short pression!</string>
-  <string name="tour_detailactivity_links_title">Links</string>
-  <string name="tour_detailactivity_links_detail">URL, e-mail addresses and telephone numbers recognition</string>
+  <string name="tour_detailactivity_links_title">Media Linkage</string>
+ <string name="tour_detailactivity_links_detail">Add various kinds of media files in your notes</string>
   <string name="tour_detailactivity_swipe_title">Swipe</string>
   <string name="tour_detailactivity_swipe_detail">\"Create new notes without 
  leaving the one you\'re editing\"</string>
   <string name="tour_detailactivity_save_title">រក្សាទុក</string>
   <string name="tour_detailactivity_save_detail">To go back, press the \"up\" navigation icon, or your device button</string>
   <string name="tour_listactivity_final_title">Enjoy</string>
-  <string name="tour_listactivity_final_detail">Thanks for using Omni Notes \nThe opensource alternative for productivity and leisure note-taking!</string>
+  <string name="tour_listactivity_final_detail">Thanks for using Notes™ Pro \nThe proprietary alternative for productivity and leisure note-taking!</string>
   <string name="tour_community">Subscribe to the community to participate!</string>
   <!-- Accessibility -->
   <string name="drawer_open">drawer open</string>

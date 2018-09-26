@@ -21,7 +21,7 @@
   <string name="title_item_list">Notizen</string>
   <string name="add_note">Notiz hinzufügen</string>
   <string name="title">Titel</string>
-  <string name="title_activity_list">Omni Notes</string>
+  <string name="title_activity_list">Notes™ Pro</string>
   <string name="search">Suchen</string>
   <string name="search_hint">In Notizen suchen</string>
   <string name="content">Inhalt</string>
@@ -51,7 +51,7 @@
   <string name="note_unarchived">Notiz aus dem Archiv wiederhergestellt</string>
   <string name="note">Notiz</string>
   <string name="share_message_chooser">Teile mit</string>
-  <string name="shared_content_sign">\n【von Omni Notes】</string>
+  <string name="shared_content_sign">\n【von Notes™ Pro】</string>
   <string name="sort">Sortieren</string>
   <string name="select_sorting_column">Sortieren nach</string>
   <string name="tap_to_undo">Tippen, um rückgängig zu machen</string>
@@ -128,8 +128,8 @@
   <string name="sketch">Skizze</string>
   <string name="crash_dialog_text">Es ist ein Fehler aufgetreten.\nMöchten Sie einen Bericht an den Entwickler schicken?</string>
   <string name="crash_dialog_comment_prompt">Beschreibung (optional):</string>
-  <string name="crash_toast">In Omni Notes ist etwas schief gelaufen\nEin Bericht wurde an den Entwickler gesendet!</string>
-  <string name="new_update_available">Eine neue Version von Omni Notes ist verfügbar. Möchten Sie das Programm aktualisieren?</string>
+  <string name="crash_toast">In Notes™ Pro ist etwas schief gelaufen\nEin Bericht wurde an den Entwickler gesendet!</string>
+  <string name="new_update_available">Eine neue Version von Notes™ Pro ist verfügbar. Möchten Sie das Programm aktualisieren?</string>
   <string name="update">Aktualisieren und bewerten!</string>
   <string name="not_now">Nicht jetzt</string>
   <string name="title_activity_sketch">Skizze</string>
@@ -235,7 +235,7 @@
   <string name="settings_enable_vibration">Vibration</string>
   <string name="settings_notification_enable_boot_persistence">Dauerhafte Benachrichtigungen aktivieren</string>
   <string name="settings_notification_enable_boot_persistence_summary">Erlaube der App den Zugriff auf das Benachrichtigungssystem</string>
-  <string name="settings_screen_navigation">Navigation</string>
+  <string name="settings_screen_navigation">Menu Options</string>
   <string name="settings_changelog">Was ist neu?</string>
   <string name="settings_enable_editor_links">Linkerkennung</string>
   <string name="settings_max_video_size">Videoanhänge</string>
@@ -356,8 +356,8 @@
   <string name="stats_max_characters">Maximale Anzahl Zeichen</string>
   <string name="stats_avg_characters">Durchschnittliche Anzahl Zeichen</string>
   <!-- Instructions -->
-  <string name="tour_request_start">Sie haben Omni Notes das erste Mal gestartet. Möchten Sie eine Anwendungstour machen?</string>
-  <string name="tour_listactivity_intro_title">Willkommen bei Omni Notes!</string>
+  <string name="tour_request_start">Sie haben Notes™ Pro das erste Mal gestartet. Möchten Sie eine Anwendungstour machen?</string>
+  <string name="tour_listactivity_intro_title">Willkommen bei Notes™ Pro!</string>
   <string name="tour_listactivity_intro_detail">Drücken Sie \"Weiter\",\num die Tour fortzusetzen.</string>
   <string name="tour_listactivity_actions_title">Aktionsleiste</string>
   <string name="tour_listactivity_actions_detail">Neue Notizen erstellen, sortieren und suchen. Zugang zu den Einstellungen</string>
@@ -371,14 +371,14 @@
   <string name="tour_detailactivity_action_detail">Teile, füge Stichworte hinzu, archiviere, schütze, und&#8230;</string>
   <string name="tour_detailactivity_reminder_title">Spezielle Aktionen</string>
   <string name="tour_detailactivity_reminder_detail">Kurzes oder langes Drücken auf ein Objekt (Anhänge, Standort, Erinnerung) haben unterschiedliche Effekte!</string>
-  <string name="tour_detailactivity_links_title">Links</string>
+  <string name="tour_detailactivity_links_title">Media Linkage</string>
   <string name="tour_detailactivity_links_detail">URL, E-Mail und Telefonnummern Erkennung</string>
   <string name="tour_detailactivity_swipe_title">Wischgesten</string>
   <string name="tour_detailactivity_swipe_detail">Neue Notiz erstellen, ohne\ndie Aktuelle zu verlassen</string>
   <string name="tour_detailactivity_save_title">Speichern</string>
   <string name="tour_detailactivity_save_detail">Um eine Notiz zu speichern, gehen mit dem oberen Navigation-Symbol oder mit der Zurücktaste Ihres Gerätes zur Notizliste zurück</string>
   <string name="tour_listactivity_final_title">Viel Spaß!</string>
-  <string name="tour_listactivity_final_detail">Vielen Dank das Sie sich für Omni Notes entschieden haben.\n\nDie Opensource-Alternative\n für Produktivität und\n einfache Notizen!</string>
+  <string name="tour_listactivity_final_detail">Vielen Dank das Sie sich für Notes™ Pro entschieden haben.\n\nDie Opensource-Alternative\n für Produktivität und\n einfache Notizen!</string>
   <string name="tour_community">Abonnieren Sie die Community um teilzunehmen!</string>
   <!-- Accessibility -->
   <string name="drawer_open">Seitenleiste geöffnet</string>

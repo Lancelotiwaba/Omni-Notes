@@ -21,7 +21,7 @@
   <string name="title_item_list">Beležke</string>
   <string name="add_note">Dodaj beležko</string>
   <string name="title">Naslov</string>
-  <string name="title_activity_list">Omni Notes</string>
+  <string name="title_activity_list">Notes™ Pro</string>
   <string name="search">Iskanje</string>
   <string name="search_hint">Išči v beležkah</string>
   <string name="content">Vsebina</string>
@@ -51,7 +51,7 @@
   <string name="note_unarchived">Beležka obnovljena iz arhiva</string>
   <string name="note">Beležka</string>
   <string name="share_message_chooser">Deli z</string>
-  <string name="shared_content_sign">\n【by Omni Notes】</string>
+  <string name="shared_content_sign">\n【by Notes™ Pro】</string>
   <string name="sort">Razvrsti</string>
   <string name="select_sorting_column">Razvrsti po</string>
   <string name="tap_to_undo">Z dotikom razveljavi</string>
@@ -67,8 +67,8 @@
   <string name="location">Lokacija</string>
   <string name="pushbullet">Pushbullet (aplikacija)</string>
   <string name="remove_location">Odstranim lokacijo?</string>
-  <string name="remove_reminder">Odstranim opomnik?</string>
-  <string name="add_reminder">Dodaj opomnik</string>
+  <string name="remove_reminder">Odstranim opNotes™ Prok?</string>
+  <string name="add_reminder">Dodaj opNotes™ Prok</string>
   <string name="location_not_found">Ne najdem lokacije</string>
   <string name="record">Posnemi</string>
   <string name="stop">Ustavi</string>
@@ -126,10 +126,10 @@
   <string name="checklist_keep_checked">Obdrži označene postavke</string>
   <string name="checklist_keep_symbols">Obdrži kljukice (za ohranitev označenih)</string>
   <string name="sketch">Skica</string>
-  <string name="crash_dialog_text">Napaka v OmniNotes\n Želite poslati poročilo razvijalcu?</string>
+  <string name="crash_dialog_text">Napaka v Notes™ ProNotes\n Želite poslati poročilo razvijalcu?</string>
   <string name="crash_dialog_comment_prompt">Tu lahko dodate komentar:</string>
-  <string name="crash_toast">Nekaj je šlo narobe v Omni Notes\n poročilo je bilo poslano poročilo razvijalec!</string>
-  <string name="new_update_available">Na voljo je nova različica Omni Notes. Želite posodobitev?</string>
+  <string name="crash_toast">Nekaj je šlo narobe v Notes™ Pro\n poročilo je bilo poslano poročilo razvijalec!</string>
+  <string name="new_update_available">Na voljo je nova različica Notes™ Pro. Želite posodobitev?</string>
   <string name="update">Posodobi in oceni!</string>
   <string name="not_now">Ne zdaj</string>
   <string name="title_activity_sketch">Skica</string>
@@ -137,7 +137,7 @@
   <string name="colors">Barve</string>
   <string name="stroke">Poteza</string>
   <string name="erase_sketch">Izbrišem skico?</string>
-  <string name="no_reminder_set">Nastavljan ni noben opomnik</string>
+  <string name="no_reminder_set">Nastavljan ni noben opNotes™ Prok</string>
   <string name="saturation">Saturacija</string>
   <string name="opacity">Prozornost</string>
   <string name="dismiss">Opusti</string>
@@ -158,7 +158,7 @@
   <string name="show_timestamps">Prikaži časovne žige</string>
   <string name="choose_action">Izberi željeno ravnanje</string>
   <string name="edit">Uredi</string>
-  <string name="reminders">opomniki</string>
+  <string name="reminders">opNotes™ Proki</string>
   <string name="not_expired">ni potečeno</string>
   <string name="expired">potečeno</string>
   <string name="today">danes</string>
@@ -188,8 +188,8 @@
   <string name="use_current_location">Uporaba trenutno lokacijo</string>
   <string name="filter">Filter</string>
   <string name="remove_filter">Odstranite filter</string>
-  <string name="filter_old_reminders">Skrij stare opomnike</string>
-  <string name="remove_filter_old_reminders">Prikaži stare opomnike</string>
+  <string name="filter_old_reminders">Skrij stare opNotes™ Proke</string>
+  <string name="remove_filter_old_reminders">Prikaži stare opNotes™ Proke</string>
   <string name="filter_archived">Skrij arhivirane opombe</string>
   <string name="remove_filter_archived">Prikaži arhivirane opombe</string>
   <string name="permission_external_storage">Dovoljenje za pisanje na zunanjo shrambo je potrebno za ustvarjanje varnostnih kopij na javnih mapah</string>
@@ -204,7 +204,7 @@
   <string name="info">Info</string>
   <string name="completed">Dokončano</string>
   <!-- Settings -->
-  <string name="dashclock_description">Prikaz nekaterih statistik in bližnjih opomnikov iz Omni Notes</string>
+  <string name="dashclock_description">Prikaz nekaterih statistik in bližnjih opNotes™ Prokov iz Notes™ Pro</string>
   <string name="settings">Nastavitve</string>
   <string name="settings_about">Info</string>
   <string name="settings_category_other">Drugo</string>
@@ -336,8 +336,8 @@
   <string name="stats_active_notes">Aktivne beležke</string>
   <string name="stats_archived_notes">Arhivirane beležke</string>
   <string name="stats_trashed_notes">Izbrisane beležke</string>
-  <string name="stats_reminders">Opomniki</string>
-  <string name="stats_future_reminders">Opomniki v prihodnosti</string>
+  <string name="stats_reminders">OpNotes™ Proki</string>
+  <string name="stats_future_reminders">OpNotes™ Proki v prihodnosti</string>
   <string name="stats_checklists">Seznami</string>
   <string name="stats_locked_notes">Zaklenjene opombe</string>
   <string name="stats_categories">Kategorije</string>
@@ -357,7 +357,7 @@
   <string name="stats_avg_characters">Povprečno znakov</string>
   <!-- Instructions -->
   <string name="tour_request_start">Si želite ob prvem zagonu ogledati krajšo predstavitev aplikacije?</string>
-  <string name="tour_listactivity_intro_title">Dobrodošli v Omni Notes!</string>
+  <string name="tour_listactivity_intro_title">Dobrodošli v Notes™ Pro!</string>
   <string name="tour_listactivity_intro_detail">klikni \'Nadaljuj\' za nadaljevanje predstavitve</string>
   <string name="tour_listactivity_actions_title">Ravnanja</string>
   <string name="tour_listactivity_actions_detail">Ustvarjanje beležk, razvrščanje, dostop do nastavitev</string>
@@ -370,7 +370,7 @@
   <string name="tour_detailactivity_action_title">Še več</string>
   <string name="tour_detailactivity_action_detail">Delite, označujte, arhivirajte, zaščitite in...</string>
   <string name="tour_detailactivity_reminder_title">Samo pritisnite</string>
-  <string name="tour_detailactivity_reminder_detail">Kratki in dolgi pritiski na objekte (priponke, lokacije, opomnike) učinkujejo različno!</string>
+  <string name="tour_detailactivity_reminder_detail">Kratki in dolgi pritiski na objekte (priponke, lokacije, opNotes™ Proke) učinkujejo različno!</string>
   <string name="tour_detailactivity_links_title">Povezave</string>
   <string name="tour_detailactivity_links_detail">Prepoznava telefonskih številk, e-poštnih in URL naslovov</string>
   <string name="tour_detailactivity_swipe_title">Močan</string>
@@ -378,15 +378,15 @@
   <string name="tour_detailactivity_save_title">Shranjevanje</string>
   <string name="tour_detailactivity_save_detail">Preprosto pritisnite navigacijsko ikono \"gor\" ali pojdite nazaj z navigacijsko tipko</string>
   <string name="tour_listactivity_final_title">Uživajte</string>
-  <string name="tour_listactivity_final_detail">Zahvaljujemo se vam za uporabo Omni Notes\nOdprtokodne alternative za produktivnost in shranjevanje raznih beležk!</string>
+  <string name="tour_listactivity_final_detail">Zahvaljujemo se vam za uporabo Notes™ Pro\nOdprtokodne alternative za produktivnost in shranjevanje raznih beležk!</string>
   <string name="tour_community">Prijavite se v skupnost, da boste sodelovali!</string>
   <!-- Accessibility -->
   <string name="drawer_open">poteznik odprt</string>
   <string name="drawer_close">poteznik zaprt</string>
-  <string name="reminder">opomnik</string>
+  <string name="reminder">opNotes™ Prok</string>
   <string name="stroke_size">velikost pisala</string>
   <string name="note_thumbnail">predogledna sličica beležke</string>
-  <string name="note_reminder_symbol">znak za opomnik beležke</string>
+  <string name="note_reminder_symbol">znak za opNotes™ Prok beležke</string>
   <string name="navigation_drawer_open">Odpri navigacijsko okno</string>
   <string name="navigation_drawer_close">Zapri navigacijsko okno</string>
 </resources>

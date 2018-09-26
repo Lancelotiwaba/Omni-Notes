@@ -21,7 +21,7 @@
   <string name="title_item_list">ບັນທຶກ</string>
   <string name="add_note">ເພີ່ມບັນທຶກ</string>
   <string name="title">ຫົວຂໍ້</string>
-  <string name="title_activity_list">Omni Notes</string>
+  <string name="title_activity_list">Notes™ Pro</string>
   <string name="search">ຄົ້ນຫາ</string>
   <string name="search_hint">ຄົ້ນຫາໃນບັນທຶກ</string>
   <string name="content">ເນື້ອ​ໃນ</string>
@@ -51,7 +51,7 @@
   <string name="note_unarchived">ບັນທຶກຖືກຮຽກຄືນຈາກການເກັບຮັກສາແລ້ວ</string>
   <string name="note">ບັນທຶກ</string>
   <string name="share_message_chooser">ແບ່ງປັນກັບ</string>
-  <string name="shared_content_sign">\n【ໂດຍ Omni Notes】</string>
+  <string name="shared_content_sign">\n【ໂດຍ Notes™ Pro】</string>
   <string name="sort">ຈັດລຽງ</string>
   <string name="select_sorting_column">ຈັດລຽງໂດຍ</string>
   <string name="tap_to_undo">ແຕະເພື່ອແກ້ໄຂ</string>
@@ -106,7 +106,7 @@
   <string name="delete_category_confirmation">This category is used by some notes.\nConfirm notes un-categorization and category deletion?</string>
   <string name="discard">ຍົກເລີກ</string>
   <string name="remove_category">Remove category</string>
-  <string name="no_tags_created">No tags available yet\nCreate them by writing hashtags into your notes</string>
+  <string name="no_tags_created">No tags available yet!</string>
   <string name="no_categories_created">No categories have been created yet</string>
   <string name="notes_category_removed">Category removed from notes</string>
   <string name="notes_categorized_as">Notes categorized as</string>
@@ -126,10 +126,10 @@
   <string name="checklist_keep_checked">ຮັກສາລາຍການທີ່ຖືກເລືອກໄວ້</string>
   <string name="checklist_keep_symbols">ຮັກສາເຄື່ອງໝາຍເລືອກໄວ້ (ເພື່ອຈົດຈຳອັນທີ່​ຖືກເລືອກ)</string>
   <string name="sketch">ຂຽນດ້ວຍລາຍມື</string>
-  <string name="crash_dialog_text">ມີຂໍ້ຜິດພາດເກີດຂຶ້ນກັບ Omni Notes\n ທ່ານຕ້ອງການສົ່ງການລາຍງານໄປຫາຜູ່ພັດທະນາບໍ່?</string>
+  <string name="crash_dialog_text">ມີຂໍ້ຜິດພາດເກີດຂຶ້ນກັບ Notes™ Pro\n ທ່ານຕ້ອງການສົ່ງການລາຍງານໄປຫາຜູ່ພັດທະນາບໍ່?</string>
   <string name="crash_dialog_comment_prompt">ພິມຄວາມເຫັນຂອງທ່ານໃສ່ບ່ອນນີ້:</string>
-  <string name="crash_toast">Something went wrong in Omni Notes\nA report has been sent report to the developer!</string>
-  <string name="new_update_available">ມີ Omni Notes ເວີຊັນໃໝ່, ທ່ານຕ້ອງການອັບເດດບໍ່?</string>
+  <string name="crash_toast">Something went wrong in Notes™ Pro\nA report has been sent report to the developer!</string>
+  <string name="new_update_available">ມີ Notes™ Pro ເວີຊັນໃໝ່, ທ່ານຕ້ອງການອັບເດດບໍ່?</string>
   <string name="update">ອັບເດດ ແລະ ໃຫ້ຄະແນນ!</string>
   <string name="not_now">ບໍ່ແມ່ນຕອນນີ້</string>
   <string name="title_activity_sketch">ຂຽນດ້ວຍລາຍມື</string>
@@ -204,7 +204,7 @@
   <string name="info">ຂໍ້​ມູນ</string>
   <string name="completed">Completed</string>
   <!-- Settings -->
-  <string name="dashclock_description">ສະແດງສະຖິຕິຈຳນວນໜຶ່ງ ແລະ ເຂົ້າເຖິງໂຕເຕືອນຄວາມຈຳຈາກ Omni Notes</string>
+  <string name="dashclock_description">ສະແດງສະຖິຕິຈຳນວນໜຶ່ງ ແລະ ເຂົ້າເຖິງໂຕເຕືອນຄວາມຈຳຈາກ Notes™ Pro</string>
   <string name="settings">ການ​ຕັ້ງຄ່າ</string>
   <string name="settings_about">ຂໍ້​ມູນ</string>
   <string name="settings_category_other">ອື່ນໆ</string>
@@ -228,22 +228,22 @@
   <string name="export_warning">ໄຟລ​໌​ທີ່ສົ່ງອອກຈະແທນທີ່ອັນກ່ອນໜ້ານີ້. ດຳເນີນການຕໍ່?</string>
   <string name="settings_category_gestures">ການຄາດເດົາ</string>
   <string name="settings_enable_swype">ເປີດໃຊ້ການກວາດນິ້ວມື</string>
-  <string name="settings_screen_interface">Interface</string>
+  <string name="settings_screen_interface">Appearance</string>
   <string name="settings_enable_animations">ພາບເຄື່ອນໄຫວ</string>
   <string name="settings_screen_backup">ການສຳຮອງຂໍ້ມູນ</string>
   <string name="settings_screen_notifications">Notifications</string>
   <string name="settings_enable_vibration">ການສັ່ນ</string>
   <string name="settings_notification_enable_boot_persistence">Enable notifications persistence</string>
   <string name="settings_notification_enable_boot_persistence_summary">Allow the app to access notifications to make they survive to reboots</string>
-  <string name="settings_screen_navigation">Navigation</string>
+  <string name="settings_screen_navigation">Menu Options</string>
   <string name="settings_changelog">ລາຍການປ່ຽນແປງ</string>
   <string name="settings_enable_editor_links">ການ​ຮັບຮູ້ລິ້ງ</string>
   <string name="settings_max_video_size">ໄຟລ໌ແນບວິດີໂອ</string>
-  <string name="settings_screen_data">Data</string>
+  <string name="settings_screen_data">Backup &amp; Password</string>
   <string name="settings_backup">ການສຳຮອງຂໍ້ມູນ</string>
   <string name="settings_password">ລະ​ຫັດ​ຜ່ານ</string>
   <string name="settings_password_access">Request password on access</string>
-  <string name="settings_password_instructions">Password ensures that notes won\'t be viewed or modified by other persons.\n\nWhen setting a new password, the previous one will be requested.</string>
+  <string name="settings_password_instructions">Create a password to secure your notes!</string>
   <string name="settings_password_not_matching">ບໍ່ມີລະຫັດຜ່ານ ຫຼື ລະຫັດຜ່ານບໍ່ກົງກັນ</string>
   <string name="insert_new_password">ໃສ່​ລະ​ຫັດ​ຜ່ານໃໝ່</string>
   <string name="confirm_new_password">ຢືນ​ຢັນ​ລະ​ຫັດ​ຜ່ານໃຫມ່</string>
@@ -290,7 +290,7 @@
   <string name="settings_password_question">ຄຳຖາມ</string>
   <string name="settings_password_answer">ຄຳຕອບ</string>
   <string name="settings_password_answer_check">ຢືນຢັນຄຳຕອບ</string>
-  <string name="password_forgot">Password forgotten</string>
+  <string name="password_forgot">Forgot Password?</string>
   <string name="password_remove">Remove password</string>
   <string name="settings_answer_not_matching">ບໍ່ມີຄຳຕອບ ຫຼື ຄຳຕອບບໍ່ກົງກັນ</string>
   <string name="password_not_set">ບໍ່ທັນຕັ້ງລະຫັດຜ່ານ</string>
@@ -301,7 +301,7 @@
   <string name="settings_navdrawer_on_exit">Navigation menu on exit</string>
   <string name="settings_navdrawer_on_exit_summary">Pressing \"back\" when in notes list opens navigation menu instead of exiting</string>
   <string name="settings_text_size">Text size</string>
-  <string name="settings_screen_behaviors">Behaviors</string>
+  <string name="settings_screen_behaviors">Actions</string>
   <string name="settings_enable_swipe">Swipe notes</string>
   <string name="settings_enable_swipe_summary">Swipe on notes to perform actions</string>
   <string name="settings_swipe_to_trash">Swipe to trash</string>
@@ -356,8 +356,8 @@
   <string name="stats_max_characters">Max chars</string>
   <string name="stats_avg_characters">Average chars</string>
   <!-- Instructions -->
-  <string name="tour_request_start">ທ່ານເປີດໃຊ້ງານ Omni Notes ເປັນຄັ້ງທຳອິດ, ທ່ານຕ້ອງການເບິ່ງການແນະນຳແອັບພຼິເຄຊັນບໍ່?</string>
-  <string name="tour_listactivity_intro_title">ຍິນດີຕ້ອນຮັບສູ່ Omni Notes!</string>
+  <string name="tour_request_start">ທ່ານເປີດໃຊ້ງານ Notes™ Pro ເປັນຄັ້ງທຳອິດ, ທ່ານຕ້ອງການເບິ່ງການແນະນຳແອັບພຼິເຄຊັນບໍ່?</string>
+  <string name="tour_listactivity_intro_title">ຍິນດີຕ້ອນຮັບສູ່ Notes™ Pro!</string>
   <string name="tour_listactivity_intro_detail">ກົດ \"ດຳເນີນການ\" ເພື່ອເບິ່ງການແນະນຳແອັບຯ</string>
   <string name="tour_listactivity_actions_title">ການດຳເນີນການ</string>
   <string name="tour_listactivity_actions_detail">ສ້າວບັນທຶກໃໝ່, ຈັດລຽງ, ເຂົ້າສູ່ການຕັ້ງຄ່າ</string>
@@ -372,13 +372,13 @@
   <string name="tour_detailactivity_reminder_title">ກົດເລີຍ</string>
   <string name="tour_detailactivity_reminder_detail">ການກົດໄລຍະສັ້ນ ຫຼື ຍາວໃສ່ສິ່ງຕ່າງໆ (ໄຟລ໌ແນບ, ສະຖານທີ່, ໂຕເຕືອນຄວາມຈຳ) ມີຜົນໄດ້ຮັບແຕກຕ່າງກັນ!</string>
   <string name="tour_detailactivity_links_title">ລິ້ງ</string>
-  <string name="tour_detailactivity_links_detail">URL, e-mail addresses and telephone numbers recognition</string>
+ <string name="tour_detailactivity_links_detail">Add various kinds of media files in your notes</string>
   <string name="tour_detailactivity_swipe_title">Swipe</string>
   <string name="tour_detailactivity_swipe_detail">Create new notes without \n leaving the one you\'re editing</string>
   <string name="tour_detailactivity_save_title">ຈັດເກັບ</string>
   <string name="tour_detailactivity_save_detail">ພຽງແຕ່ກົດໄອຄອນຄວບຄຸມ \"ຂຶ້ນ\" ຫຼື ກັບຄືນດ້ວຍປຸ່ມກົດຂອງອຸປະກອນທ່ານ</string>
   <string name="tour_listactivity_final_title">ຂໍໃຫ້ມີຄວາມສຸກ</string>
-  <string name="tour_listactivity_final_detail">Thanks for using Omni Notes \nThe opensource alternative for productivity and leisure note-taking!</string>
+  <string name="tour_listactivity_final_detail">Thanks for using Notes™ Pro \nThe proprietary alternative for productivity and leisure note-taking!</string>
   <string name="tour_community">Subscribe to the community to participate!</string>
   <!-- Accessibility -->
   <string name="drawer_open">drawer open</string>

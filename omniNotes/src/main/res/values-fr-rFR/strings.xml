@@ -18,10 +18,10 @@
   -->
 <resources>
   <!-- Activities -->
-  <string name="title_item_list">Notes</string>
+  <string name="title_item_list">My Notes</string>
   <string name="add_note">Ajouter une note</string>
   <string name="title">Titre</string>
-  <string name="title_activity_list">Omni Notes</string>
+  <string name="title_activity_list">Notes™ Pro</string>
   <string name="search">Rechercher</string>
   <string name="search_hint">Rechercher dans les notes</string>
   <string name="content">Contenu</string>
@@ -51,7 +51,7 @@
   <string name="note_unarchived">Note restaurée depuis l\'archive</string>
   <string name="note">Note</string>
   <string name="share_message_chooser">Partager avec</string>
-  <string name="shared_content_sign">\n【Omni Notes】</string>
+  <string name="shared_content_sign">\n【Notes™ Pro】</string>
   <string name="sort">Trier</string>
   <string name="select_sorting_column">Trier par</string>
   <string name="tap_to_undo">Appuyer pour annuler</string>
@@ -126,10 +126,10 @@
   <string name="checklist_keep_checked">Garder les éléments cochés</string>
   <string name="checklist_keep_symbols">Garder les coches</string>
   <string name="sketch">Dessin</string>
-  <string name="crash_dialog_text">Un problème est survenu dans Omni Notes\nEnvoyer un rapport automatique au développeur ?</string>
+  <string name="crash_dialog_text">Un problème est survenu dans Notes™ Pro\nEnvoyer un rapport automatique au développeur ?</string>
   <string name="crash_dialog_comment_prompt">Ajouter un commentaire ici (facultatif) :</string>
-  <string name="crash_toast">Un problème est survenu dans Omni Notes\nUn rapport a été envoyé au développeur !</string>
-  <string name="new_update_available">Une nouvelle version d\'Omni Notes est disponible, souhaitez-vous mettre à jour ?</string>
+  <string name="crash_toast">Un problème est survenu dans Notes™ Pro\nUn rapport a été envoyé au développeur !</string>
+  <string name="new_update_available">Une nouvelle version d\'Notes™ Pro est disponible, souhaitez-vous mettre à jour ?</string>
   <string name="update">Mettre à jour et évaluer !</string>
   <string name="not_now">Pas maintenant</string>
   <string name="title_activity_sketch">Dessin</string>
@@ -204,7 +204,7 @@
   <string name="info">Informations</string>
   <string name="completed">Terminées</string>
   <!-- Settings -->
-  <string name="dashclock_description">Affiche des statistiques et des rappels à venir de Omni Notes.</string>
+  <string name="dashclock_description">Affiche des statistiques et des rappels à venir de Notes™ Pro.</string>
   <string name="settings">Paramètres</string>
   <string name="settings_about">Informations</string>
   <string name="settings_category_other">Autres</string>
@@ -228,14 +228,14 @@
   <string name="export_warning">Le fichier exporté écrasera le précédent. Continuer ?</string>
   <string name="settings_category_gestures">Gestes</string>
   <string name="settings_enable_swype">Activer le glisser</string>
-  <string name="settings_screen_interface">Interface</string>
+  <string name="settings_screen_interface">Appearance</string>
   <string name="settings_enable_animations">Animations</string>
   <string name="settings_screen_backup">Sauvegarder</string>
   <string name="settings_screen_notifications">Notifications</string>
   <string name="settings_enable_vibration">Vibreur</string>
   <string name="settings_notification_enable_boot_persistence">Activer les notifications persistantes</string>
   <string name="settings_notification_enable_boot_persistence_summary">Permettre à l\'application d\'accéder aux notifications pour persister aux redémarrages</string>
-  <string name="settings_screen_navigation">Navigation</string>
+  <string name="settings_screen_navigation">Menu Options</string>
   <string name="settings_changelog">Liste des modifications</string>
   <string name="settings_enable_editor_links">Identification des liens</string>
   <string name="settings_max_video_size">Vidéo en pièces jointes</string>
@@ -356,8 +356,8 @@
   <string name="stats_max_characters">Max caractères</string>
   <string name="stats_avg_characters">Moy caractères</string>
   <!-- Instructions -->
-  <string name="tour_request_start">Vous lancez Omni Note pour la première fois, souhaitez-vous voir la présentation de l\'application ?</string>
-  <string name="tour_listactivity_intro_title">Bienvenue sur Omni Notes !</string>
+  <string name="tour_request_start">Vous lancez Notes™ Pro pour la première fois, souhaitez-vous voir la présentation de l\'application ?</string>
+  <string name="tour_listactivity_intro_title">Bienvenue sur Notes™ Pro !</string>
   <string name="tour_listactivity_intro_detail">Appuyez sur \"Continuer\" pour continuer la présentation</string>
   <string name="tour_listactivity_actions_title">Actions</string>
   <string name="tour_listactivity_actions_detail">Créer de nouvelles notes, les trier, accès aux préférences</string>
@@ -378,7 +378,7 @@
   <string name="tour_detailactivity_save_title">Enregistrer</string>
   <string name="tour_detailactivity_save_detail">Pour revenir en arrière, appuyez sur l\'icône de navigation \"Haut\" ou sur le bouton de votre appareil</string>
   <string name="tour_listactivity_final_title">Profitez bien</string>
-  <string name="tour_listactivity_final_detail">Merci d\'utiliser Omni Notes \nL\'alternative open source pour la productivité et la prise de notes de loisir !</string>
+  <string name="tour_listactivity_final_detail">Merci d\'utiliser Notes™ Pro \nL\'alternative open source pour la productivité et la prise de notes de loisir !</string>
   <string name="tour_community">Rejoindre la communauté pour participer !</string>
   <!-- Accessibility -->
   <string name="drawer_open">volet ouvert</string>

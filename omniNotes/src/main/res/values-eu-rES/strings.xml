@@ -21,7 +21,7 @@
   <string name="title_item_list">Oharrak</string>
   <string name="add_note">Gehitu oharra</string>
   <string name="title">Izenburua</string>
-  <string name="title_activity_list">Omni Notes</string>
+  <string name="title_activity_list">Notes™ Pro</string>
   <string name="search">Bilatu</string>
   <string name="search_hint">Bilatu oharretan</string>
   <string name="content">Edukia</string>
@@ -51,7 +51,7 @@
   <string name="note_unarchived">Oharra artxibotik berreskuratua</string>
   <string name="note">Oharra</string>
   <string name="share_message_chooser">Partekatu honekin</string>
-  <string name="shared_content_sign">\n【Omni Notes】</string>
+  <string name="shared_content_sign">\n【Notes™ Pro】</string>
   <string name="sort">Ordenatu</string>
   <string name="select_sorting_column">Ordenatu honela</string>
   <string name="tap_to_undo">Sakatu desegiteko</string>
@@ -126,10 +126,10 @@
   <string name="checklist_keep_checked">Mantendu markatutako elementuak</string>
   <string name="checklist_keep_symbols">Mantendu egiaztapen markak</string>
   <string name="sketch">Krokisa</string>
-  <string name="crash_dialog_text">Zerbait ez da behar bezala joan Omni Notes aplikazioak\nBidali txosten automatikoa garatzaileari?</string>
+  <string name="crash_dialog_text">Zerbait ez da behar bezala joan Notes™ Pro aplikazioak\nBidali txosten automatikoa garatzaileari?</string>
   <string name="crash_dialog_comment_prompt">Txertatu iruzkina hemen (aukerazkoa):</string>
-  <string name="crash_toast">Zerbait ez da behar bezala joan Omni Notes aplikazioak\nTxosten automatikoa bidali zaio garatzaileari!</string>
-  <string name="new_update_available">Omni Notes aplikazioaren bertsio berri bat dago, eguneratu nahi duzu?</string>
+  <string name="crash_toast">Zerbait ez da behar bezala joan Notes™ Pro aplikazioak\nTxosten automatikoa bidali zaio garatzaileari!</string>
+  <string name="new_update_available">Notes™ Pro aplikazioaren bertsio berri bat dago, eguneratu nahi duzu?</string>
   <string name="update">Eguneratu eta baloratu!</string>
   <string name="not_now">Orain ez</string>
   <string name="title_activity_sketch">Krokisa</string>
@@ -204,7 +204,7 @@
   <string name="info">Informazioa</string>
   <string name="completed">Osatuta</string>
   <!-- Settings -->
-  <string name="dashclock_description">Erakutsi Omni Notes aplikazioko estatistika batzuk eta iraungitze datak</string>
+  <string name="dashclock_description">Erakutsi Notes™ Pro aplikazioko estatistika batzuk eta iraungitze datak</string>
   <string name="settings">Ezarpenak</string>
   <string name="settings_about">Informazioa</string>
   <string name="settings_category_other">Besteak</string>
@@ -356,8 +356,8 @@
   <string name="stats_max_characters">Karaktereak gehienez</string>
   <string name="stats_avg_characters">Karaktereak bataz-beste</string>
   <!-- Instructions -->
-  <string name="tour_request_start">Omni Notes abiatzen duzun lehen aldia da, aplikazioaren erakustaldia ikusi nahi duzu?</string>
-  <string name="tour_listactivity_intro_title">Ongi etorri Omni Notes-era!</string>
+  <string name="tour_request_start">Notes™ Pro abiatzen duzun lehen aldia da, aplikazioaren erakustaldia ikusi nahi duzu?</string>
+  <string name="tour_listactivity_intro_title">Ongi etorri Notes™ Pro-era!</string>
   <string name="tour_listactivity_intro_detail">sakatu \"Jarraitu\" erakustaldiarekin jarraitzeko</string>
   <string name="tour_listactivity_actions_title">Ekintzak</string>
   <string name="tour_listactivity_actions_detail">Sortu ohar berriak, ordenatu itzazu, sartu hobespenetan</string>
@@ -378,7 +378,7 @@
   <string name="tour_detailactivity_save_title">Gorde</string>
   <string name="tour_detailactivity_save_detail">Atzera egiteko, sakatu \"gora\" nabigazio ikonoa, edo zure gailuko botoia</string>
   <string name="tour_listactivity_final_title">Gozatu</string>
-  <string name="tour_listactivity_final_detail">Eskerrik asko Omni Notes erabiltzeagatik \n Produktibitatea zein aisialdirako oharrak hartzeko kode irekiko aplikazioa!</string>
+  <string name="tour_listactivity_final_detail">Eskerrik asko Notes™ Pro erabiltzeagatik \n Produktibitatea zein aisialdirako oharrak hartzeko kode irekiko aplikazioa!</string>
   <string name="tour_community">Harpidetu komunitatera parte hartzeko!</string>
   <!-- Accessibility -->
   <string name="drawer_open">tiradera irekita</string>

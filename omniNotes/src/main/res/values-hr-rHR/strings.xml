@@ -21,7 +21,7 @@
   <string name="title_item_list">Bilješke</string>
   <string name="add_note">Dodaj Bilješku</string>
   <string name="title">Naslov</string>
-  <string name="title_activity_list">Omni Bilješke</string>
+  <string name="title_activity_list">Notes™ Pro Bilješke</string>
   <string name="search">Traži</string>
   <string name="search_hint">Traži među bilješkama</string>
   <string name="content">Sadržaj</string>
@@ -51,7 +51,7 @@
   <string name="note_unarchived">Bilješka vraćena iz arhive</string>
   <string name="note">Bilješka</string>
   <string name="share_message_chooser">Podijeli s</string>
-  <string name="shared_content_sign">\n【od Omni Notes】</string>
+  <string name="shared_content_sign">\n【od Notes™ Pro】</string>
   <string name="sort">Razvrstaj</string>
   <string name="select_sorting_column">Razvrstaj prema</string>
   <string name="tap_to_undo">Dodirni za poništavanje</string>
@@ -106,7 +106,7 @@
   <string name="delete_category_confirmation">This category is used by some notes.\nConfirm notes un-categorization and category deletion?</string>
   <string name="discard">Odbaci</string>
   <string name="remove_category">Ukloni kategoriju</string>
-  <string name="no_tags_created">No tags available yet\nCreate them by writing hashtags into your notes</string>
+  <string name="no_tags_created">No tags available yet!</string>
   <string name="no_categories_created">Nema kategorija zasad</string>
   <string name="notes_category_removed">Kategorija uklonjena s bilježaka</string>
   <string name="notes_categorized_as">Bilješke kategorizirane kao</string>
@@ -126,10 +126,10 @@
   <string name="checklist_keep_checked">Zadrži odabrane stavke</string>
   <string name="checklist_keep_symbols">Zadrži kvačice</string>
   <string name="sketch">Skica</string>
-  <string name="crash_dialog_text">Nešto je pošlo po zlu u aplikaciji Omni Notes\nPoslati automatsko izvješće razvojnom programeru?</string>
+  <string name="crash_dialog_text">Nešto je pošlo po zlu u aplikaciji Notes™ Pro\nPoslati automatsko izvješće razvojnom programeru?</string>
   <string name="crash_dialog_comment_prompt">Napiši komentar ovdje (neobavezno):</string>
-  <string name="crash_toast">Nešto je pošlo po zlu u aplikaciji Omni Notes\nIzvješće je poslano razvojnom programeru!</string>
-  <string name="new_update_available">Nova verzija aplikacije Omni Notes je dostupna, želite li ju ažurirati?</string>
+  <string name="crash_toast">Nešto je pošlo po zlu u aplikaciji Notes™ Pro\nIzvješće je poslano razvojnom programeru!</string>
+  <string name="new_update_available">Nova verzija aplikacije Notes™ Pro je dostupna, želite li ju ažurirati?</string>
   <string name="update">Ažuriraj i ocijeni!</string>
   <string name="not_now">Ne sada</string>
   <string name="title_activity_sketch">Skica</string>
@@ -204,7 +204,7 @@
   <string name="info">Informacije</string>
   <string name="completed">Completed</string>
   <!-- Settings -->
-  <string name="dashclock_description">Prikazuje neke statistike i podsjetnike koji istječu u aplikaciji Omni bilješke</string>
+  <string name="dashclock_description">Prikazuje neke statistike i podsjetnike koji istječu u aplikaciji Notes™ Pro bilješke</string>
   <string name="settings">Postavke</string>
   <string name="settings_about">Informacije</string>
   <string name="settings_category_other">Ostalo</string>
@@ -356,8 +356,8 @@
   <string name="stats_max_characters">Max chars</string>
   <string name="stats_avg_characters">Average chars</string>
   <!-- Instructions -->
-  <string name="tour_request_start">Pokrenuli ste Omni Bilješke po prvi puta, želite li krenuti na obilazak aplikacije?</string>
-  <string name="tour_listactivity_intro_title">Dobrodošli u Omni Bilješke!</string>
+  <string name="tour_request_start">Pokrenuli ste Notes™ Pro Bilješke po prvi puta, želite li krenuti na obilazak aplikacije?</string>
+  <string name="tour_listactivity_intro_title">Dobrodošli u Notes™ Pro Bilješke!</string>
   <string name="tour_listactivity_intro_detail">Pritisnite \"Nastavi\" za nastavak obilaska</string>
   <string name="tour_listactivity_actions_title">Radnje</string>
   <string name="tour_listactivity_actions_detail">Stvorite nove bilješke, sortirajte ih, prema osobnim postavkama</string>
@@ -372,13 +372,13 @@
   <string name="tour_detailactivity_reminder_title">Samo pritisnite</string>
   <string name="tour_detailactivity_reminder_detail">Dugi pritisak prstom ima različite efekte na stavku (privitak, lokacija, podsjetnik) nego kratak pritisak!</string>
   <string name="tour_detailactivity_links_title">Linkovi</string>
-  <string name="tour_detailactivity_links_detail">URL, e-mail addresses and telephone numbers recognition</string>
+ <string name="tour_detailactivity_links_detail">Add various kinds of media files in your notes</string>
   <string name="tour_detailactivity_swipe_title">Swipe</string>
   <string name="tour_detailactivity_swipe_detail">Stvori novu bilješku bez \n napuštanja trenutne</string>
   <string name="tour_detailactivity_save_title">Spremi</string>
   <string name="tour_detailactivity_save_detail">Za povratak pritisnite navigacijsku ikonu za \"gore\" ili gumb na vašem uređaju</string>
   <string name="tour_listactivity_final_title">Uživajte</string>
-  <string name="tour_listactivity_final_detail">Hvala što koristite aplikaciju Omni bilješke, \nalternativu otvorenog programskog koda za produktivnost i jednostavno pravljenje bilježaka!</string>
+  <string name="tour_listactivity_final_detail">Hvala što koristite aplikaciju Notes™ Pro bilješke, \nalternativu otvorenog programskog koda za produktivnost i jednostavno pravljenje bilježaka!</string>
   <string name="tour_community">Uključite se u zajednicu!</string>
   <!-- Accessibility -->
   <string name="drawer_open">ladica otvorena</string>

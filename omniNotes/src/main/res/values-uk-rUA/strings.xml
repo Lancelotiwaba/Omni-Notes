@@ -21,7 +21,7 @@
   <string name="title_item_list">Нотатки</string>
   <string name="add_note">Додати нотатку</string>
   <string name="title">Назва</string>
-  <string name="title_activity_list">Omni Notes</string>
+  <string name="title_activity_list">Notes™ Pro</string>
   <string name="search">Пошук</string>
   <string name="search_hint">Пошук у нотатках</string>
   <string name="content">Вміст</string>
@@ -51,7 +51,7 @@
   <string name="note_unarchived">Нотатку відновлено з архіву</string>
   <string name="note">Нотатка</string>
   <string name="share_message_chooser">Поділитися через</string>
-  <string name="shared_content_sign">\n【через Omni Notes】</string>
+  <string name="shared_content_sign">\n【через Notes™ Pro】</string>
   <string name="sort">Сортування</string>
   <string name="select_sorting_column">Сортувати за</string>
   <string name="tap_to_undo">Торкніться, щоб скасувати</string>
@@ -106,7 +106,7 @@
   <string name="delete_category_confirmation">This category is used by some notes.\nConfirm notes un-categorization and category deletion?</string>
   <string name="discard">Відхилити</string>
   <string name="remove_category">Вилучити категорію</string>
-  <string name="no_tags_created">No tags available yet\nCreate them by writing hashtags into your notes</string>
+  <string name="no_tags_created">No tags available yet!</string>
   <string name="no_categories_created">Поки що категорії відсутні</string>
   <string name="notes_category_removed">Категорію вилучено з нотаток</string>
   <string name="notes_categorized_as">Нотататки класифіковані як</string>
@@ -126,10 +126,10 @@
   <string name="checklist_keep_checked">Залишити відзначені пункти</string>
   <string name="checklist_keep_symbols">Залишити відмітки (запам\'ятати вибрані елементи)</string>
   <string name="sketch">Малюнок</string>
-  <string name="crash_dialog_text">Виникла помилка під час роботи Omni Notes\n Бажаєте надіслати звіт розробнику?</string>
+  <string name="crash_dialog_text">Виникла помилка під час роботи Notes™ Pro\n Бажаєте надіслати звіт розробнику?</string>
   <string name="crash_dialog_comment_prompt">Додайте необов\'язковий коментар тут:</string>
-  <string name="crash_toast">Виникла помилка під час роботи Omni Notes\nБуло надіслано звіт розробнику!</string>
-  <string name="new_update_available">Доступна оновлена версія Omni Notes, бажаєте оновитись?</string>
+  <string name="crash_toast">Виникла помилка під час роботи Notes™ Pro\nБуло надіслано звіт розробнику!</string>
+  <string name="new_update_available">Доступна оновлена версія Notes™ Pro, бажаєте оновитись?</string>
   <string name="update">Оновити й оцінити!</string>
   <string name="not_now">Не зараз</string>
   <string name="title_activity_sketch">Малюнок</string>
@@ -204,7 +204,7 @@
   <string name="info">Інформація</string>
   <string name="completed">Completed</string>
   <!-- Settings -->
-  <string name="dashclock_description">Відображає деяку статистику і найближчі події в Omni Notes</string>
+  <string name="dashclock_description">Відображає деяку статистику і найближчі події в Notes™ Pro</string>
   <string name="settings">Налаштування</string>
   <string name="settings_about">Інформація</string>
   <string name="settings_category_other">Інше</string>
@@ -361,8 +361,8 @@
   <string name="stats_max_characters">Max chars</string>
   <string name="stats_avg_characters">Average chars</string>
   <!-- Instructions -->
-  <string name="tour_request_start">Ви запустили Omni Notes вперше, бажаєте ознайомитись з коротким довідником?</string>
-  <string name="tour_listactivity_intro_title">Ласкаво просимо до Omni Notes!</string>
+  <string name="tour_request_start">Ви запустили Notes™ Pro вперше, бажаєте ознайомитись з коротким довідником?</string>
+  <string name="tour_listactivity_intro_title">Ласкаво просимо до Notes™ Pro!</string>
   <string name="tour_listactivity_intro_detail">натисніть \"Продовжити\", щоб ознайомитися з програмою</string>
   <string name="tour_listactivity_actions_title">Дії</string>
   <string name="tour_listactivity_actions_detail">Створюйте нові нотатки, сортуйте їх, налаштовуйте</string>
@@ -377,13 +377,13 @@
   <string name="tour_detailactivity_reminder_title">Просто натисніть</string>
   <string name="tour_detailactivity_reminder_detail">Короткі або тривалі натискання по елементах (вкладення, розташування, нагадування) мають різний ефект!</string>
   <string name="tour_detailactivity_links_title">Посилання</string>
-  <string name="tour_detailactivity_links_detail">URL, e-mail addresses and telephone numbers recognition</string>
+ <string name="tour_detailactivity_links_detail">Add various kinds of media files in your notes</string>
   <string name="tour_detailactivity_swipe_title">Провести пальцем</string>
   <string name="tour_detailactivity_swipe_detail">Створюйте нові нататки \n без потреби збереження попередньої</string>
   <string name="tour_detailactivity_save_title">Збереження</string>
   <string name="tour_detailactivity_save_detail">Лише натисніть навігаційну іконку \"вгору\" чи натисніть кнопку \"назад\" на вашому пристрої</string>
   <string name="tour_listactivity_final_title">Насолоджуйтесь</string>
-  <string name="tour_listactivity_final_detail">Thanks for using Omni Notes \nThe opensource alternative for productivity and leisure note-taking!</string>
+  <string name="tour_listactivity_final_detail">Thanks for using Notes™ Pro \nThe proprietary alternative for productivity and leisure note-taking!</string>
   <string name="tour_community">Subscribe to the community to participate!</string>
   <!-- Accessibility -->
   <string name="drawer_open">сп. програм відкритий</string>

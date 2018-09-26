@@ -21,7 +21,7 @@
   <string name="title_item_list">Заметки</string>
   <string name="add_note">Создать заметку</string>
   <string name="title">Заголовок</string>
-  <string name="title_activity_list">Omni Notes</string>
+  <string name="title_activity_list">Notes™ Pro</string>
   <string name="search">Поиск</string>
   <string name="search_hint">Поиск по заметкам</string>
   <string name="content">Содержание</string>
@@ -51,7 +51,7 @@
   <string name="note_unarchived">Заметка возвращена из архива</string>
   <string name="note">Заметка</string>
   <string name="share_message_chooser">Что использовать?</string>
-  <string name="shared_content_sign">\n【через Omni Notes】</string>
+  <string name="shared_content_sign">\n【через Notes™ Pro】</string>
   <string name="sort">Сортировка</string>
   <string name="select_sorting_column">Сортировать по</string>
   <string name="tap_to_undo">Нажмите, чтобы отменить</string>
@@ -126,10 +126,10 @@
   <string name="checklist_keep_checked">Оставляя выделенные пункты</string>
   <string name="checklist_keep_symbols">Сохраняя отметки (запомнить выбранные пункты)</string>
   <string name="sketch">Рисунок</string>
-  <string name="crash_dialog_text">В Omni Notes что-то пошло не так!\n\nВы не против отправить отчет разработчику?</string>
+  <string name="crash_dialog_text">В Notes™ Pro что-то пошло не так!\n\nВы не против отправить отчет разработчику?</string>
   <string name="crash_dialog_comment_prompt">По желанию можете описать случившееся:</string>
-  <string name="crash_toast">В Omni Notes что-то пошло не так\nОтчет уже отправлен разработчику!</string>
-  <string name="new_update_available">Доступна новая версия Omni Notes, хотите провести обновление?</string>
+  <string name="crash_toast">В Notes™ Pro что-то пошло не так\nОтчет уже отправлен разработчику!</string>
+  <string name="new_update_available">Доступна новая версия Notes™ Pro, хотите провести обновление?</string>
   <string name="update">Обновить и оценить!</string>
   <string name="not_now">Не сейчас</string>
   <string name="title_activity_sketch">Рисунок</string>
@@ -204,7 +204,7 @@
   <string name="info">Информация</string>
   <string name="completed">Завершенные</string>
   <!-- Settings -->
-  <string name="dashclock_description">Отображает некоторую статистику и ближайшие напоминания из Omni Notes</string>
+  <string name="dashclock_description">Отображает некоторую статистику и ближайшие напоминания из Notes™ Pro</string>
   <string name="settings">Настройки</string>
   <string name="settings_about">Сведения</string>
   <string name="settings_category_other">Прочее</string>
@@ -356,8 +356,8 @@
   <string name="stats_max_characters">Рекорд по знакам</string>
   <string name="stats_avg_characters">Знаков в среднем</string>
   <!-- Instructions -->
-  <string name="tour_request_start">Вы запустили Omni Notes впервые, желаете пройти обучение?</string>
-  <string name="tour_listactivity_intro_title">Omni Notes приветствует Вас!</string>
+  <string name="tour_request_start">Вы запустили Notes™ Pro впервые, желаете пройти обучение?</string>
+  <string name="tour_listactivity_intro_title">Notes™ Pro приветствует Вас!</string>
   <string name="tour_listactivity_intro_detail">Нажмите «Продолжить» для начала обучения</string>
   <string name="tour_listactivity_actions_title">Операции</string>
   <string name="tour_listactivity_actions_detail">Создавайте новые заметки, сортируйте их и настраивайте под себя</string>
@@ -378,7 +378,7 @@
   <string name="tour_detailactivity_save_title">Сохранение</string>
   <string name="tour_detailactivity_save_detail">Просто нажмите на значок навигации или вернитесь с помощью клавиши устройства</string>
   <string name="tour_listactivity_final_title">Приятного пользования!</string>
-  <string name="tour_listactivity_final_detail">Спасибо за использование Omni Notes\nСвободной альтернативы для производительности труда и повседневных заметок!</string>
+  <string name="tour_listactivity_final_detail">Спасибо за использование Notes™ Pro\nСвободной альтернативы для производительности труда и повседневных заметок!</string>
   <string name="tour_community">Не забудьте подписаться на наше сообщество!</string>
   <!-- Accessibility -->
   <string name="drawer_open">сп. прил. открыт?</string>

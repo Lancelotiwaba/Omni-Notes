@@ -21,7 +21,7 @@
   <string name="title_item_list">הערות</string>
   <string name="add_note">הוספת הערה</string>
   <string name="title">כותרת</string>
-  <string name="title_activity_list">Omni Notes</string>
+  <string name="title_activity_list">Notes™ Pro</string>
   <string name="search">חיפוש</string>
   <string name="search_hint">חיפוש בהערות</string>
   <string name="content">תוכן</string>
@@ -51,7 +51,7 @@
   <string name="note_unarchived">הערה שוחזרה מהארכיון</string>
   <string name="note">הערה</string>
   <string name="share_message_chooser">שיתוף עם</string>
-  <string name="shared_content_sign">\n 】ע\"י Omni Notes【</string>
+  <string name="shared_content_sign">\n 】ע\"י Notes™ Pro【</string>
   <string name="sort">מיון</string>
   <string name="select_sorting_column">מיון לפי</string>
   <string name="tap_to_undo">לחיצה לשחזור</string>
@@ -106,7 +106,7 @@
   <string name="delete_category_confirmation">This category is used by some notes.\nConfirm notes un-categorization and category deletion?</string>
   <string name="discard">ביטול</string>
   <string name="remove_category">הסרת קטגוריה</string>
-  <string name="no_tags_created">No tags available yet\nCreate them by writing hashtags into your notes</string>
+  <string name="no_tags_created">No tags available yet!</string>
   <string name="no_categories_created">לא נוצרו קטגוריות עדיין</string>
   <string name="notes_category_removed">קטגוריה הוסרה מההערות</string>
   <string name="notes_categorized_as">הערות סווגו כ</string>
@@ -126,10 +126,10 @@
   <string name="checklist_keep_checked">שמירת פריטים מסומנים</string>
   <string name="checklist_keep_symbols">השארת סימונים (זכירת אלו שמסומנים)</string>
   <string name="sketch">שרטוט</string>
-  <string name="crash_dialog_text">התרחשה שגיאה ב-Omni Notes\n לשלוח דיווח למפתח?</string>
+  <string name="crash_dialog_text">התרחשה שגיאה ב-Notes™ Pro\n לשלוח דיווח למפתח?</string>
   <string name="crash_dialog_comment_prompt">ניתן להוסיף הערה כאן:</string>
-  <string name="crash_toast">Something went wrong in Omni Notes\nA report has been sent report to the developer!</string>
-  <string name="new_update_available">גרסה חדשה של Omni Notes זמינה, האם לעדכן?</string>
+  <string name="crash_toast">Something went wrong in Notes™ Pro\nA report has been sent report to the developer!</string>
+  <string name="new_update_available">גרסה חדשה של Notes™ Pro זמינה, האם לעדכן?</string>
   <string name="update">עדכון ודירוג!</string>
   <string name="not_now">לא כעת</string>
   <string name="title_activity_sketch">שרטוט</string>
@@ -204,7 +204,7 @@
   <string name="info">מידע</string>
   <string name="completed">Completed</string>
   <!-- Settings -->
-  <string name="dashclock_description">הצגת נתונים סטטיסטיים ותזכורות שתוקפן עומד לפוג מ-Omni Notes</string>
+  <string name="dashclock_description">הצגת נתונים סטטיסטיים ותזכורות שתוקפן עומד לפוג מ-Notes™ Pro</string>
   <string name="settings">הגדרות</string>
   <string name="settings_about">מידע</string>
   <string name="settings_category_other">אחר</string>
@@ -243,7 +243,7 @@
   <string name="settings_backup">גיבוי</string>
   <string name="settings_password">סיסמה</string>
   <string name="settings_password_access">בקשת סיסמה כאשר נכנסים</string>
-  <string name="settings_password_instructions">Password ensures that notes won\'t be viewed or modified by other persons.\n\nWhen setting a new password, the previous one will be requested.</string>
+  <string name="settings_password_instructions">Create a password to secure your notes!</string>
   <string name="settings_password_not_matching">ססמה ריקה או שגויה</string>
   <string name="insert_new_password">הזנת סיסמה חדשה</string>
   <string name="confirm_new_password">וידוא הסיסמה החדשה</string>
@@ -290,7 +290,7 @@
   <string name="settings_password_question">שאלה</string>
   <string name="settings_password_answer">תשובה</string>
   <string name="settings_password_answer_check">וידוא התשובה</string>
-  <string name="password_forgot">Password forgotten</string>
+  <string name="password_forgot">Forgot Password?</string>
   <string name="password_remove">הסר סיסמה</string>
   <string name="settings_answer_not_matching">תשובה שגויה או חסרה</string>
   <string name="password_not_set">לא נקבעה סיסמה</string>
@@ -356,8 +356,8 @@
   <string name="stats_max_characters">Max chars</string>
   <string name="stats_avg_characters">Average chars</string>
   <!-- Instructions -->
-  <string name="tour_request_start">זוהי הפעם הראשונה שאתם משתמשים ב-Omni Note, ברצונכם לעשות סיור באפליקציה?</string>
-  <string name="tour_listactivity_intro_title">ברוך הבא ל-Omni Notes!</string>
+  <string name="tour_request_start">זוהי הפעם הראשונה שאתם משתמשים ב-Notes™ Pro, ברצונכם לעשות סיור באפליקציה?</string>
+  <string name="tour_listactivity_intro_title">ברוך הבא ל-Notes™ Pro!</string>
   <string name="tour_listactivity_intro_detail">לחצו על \"הבא\" להמשך הסיור</string>
   <string name="tour_listactivity_actions_title">פעולות</string>
   <string name="tour_listactivity_actions_detail">יצירת הערות חדשות, סידורן, גישה להעדפות</string>
@@ -372,13 +372,13 @@
   <string name="tour_detailactivity_reminder_title">פשוט לחצו</string>
   <string name="tour_detailactivity_reminder_detail">ללחיצה ארוכה ישנה השפעה שונה על אובייקטים (קבצים מצורפים, מיקום, תזכורות) מאשר לחיצה קצרה!</string>
   <string name="tour_detailactivity_links_title">קישורים</string>
-  <string name="tour_detailactivity_links_detail">URL, e-mail addresses and telephone numbers recognition</string>
+ <string name="tour_detailactivity_links_detail">Add various kinds of media files in your notes</string>
   <string name="tour_detailactivity_swipe_title">סחיבה (swipe)</string>
   <string name="tour_detailactivity_swipe_detail">יצירת הערות חדשות מבלי \n לעזוב את אלו שאתם עורכים</string>
   <string name="tour_detailactivity_save_title">שמירה</string>
   <string name="tour_detailactivity_save_detail">כדי לחזור, הקישו על אייקון הניווט \"למעלה\", או על הכפתור במכשיר שלכם</string>
   <string name="tour_listactivity_final_title">תהנו</string>
-  <string name="tour_listactivity_final_detail">Thanks for using Omni Notes \nThe opensource alternative for productivity and leisure note-taking!</string>
+  <string name="tour_listactivity_final_detail">Thanks for using Notes™ Pro \nThe proprietary alternative for productivity and leisure note-taking!</string>
   <string name="tour_community">Subscribe to the community to participate!</string>
   <!-- Accessibility -->
   <string name="drawer_open">המגירה פתוחה</string>

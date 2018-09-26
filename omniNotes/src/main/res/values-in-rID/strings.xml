@@ -21,7 +21,7 @@
   <string name="title_item_list">Catatan</string>
   <string name="add_note">Tambahkan Catatan</string>
   <string name="title">Judul</string>
-  <string name="title_activity_list">Omni Notes</string>
+  <string name="title_activity_list">Notes™ Pro</string>
   <string name="search">Cari</string>
   <string name="search_hint">Cari didalam catatan</string>
   <string name="content">Konten</string>
@@ -51,7 +51,7 @@
   <string name="note_unarchived">Catatan dipulihkan dari arsip</string>
   <string name="note">Catatan</string>
   <string name="share_message_chooser">Bagi dengan</string>
-  <string name="shared_content_sign">\n 【by Omni Notes】</string>
+  <string name="shared_content_sign">\n 【by Notes™ Pro】</string>
   <string name="sort">Urutkan</string>
   <string name="select_sorting_column">Urutkan sesuai</string>
   <string name="tap_to_undo">Sentuh untuk membatalkan</string>
@@ -126,10 +126,10 @@
   <string name="checklist_keep_checked">Pertahankan item yang dicentang</string>
   <string name="checklist_keep_symbols">Pertahankan tanda centang</string>
   <string name="sketch">Sketsa</string>
-  <string name="crash_dialog_text">Terjadi sesuatu yang salah di Omni Notes\nKirim laporan otomatis ke pengembang?</string>
+  <string name="crash_dialog_text">Terjadi sesuatu yang salah di Notes™ Pro\nKirim laporan otomatis ke pengembang?</string>
   <string name="crash_dialog_comment_prompt">Masukkan komentar disini (opsional):</string>
-  <string name="crash_toast">Telah terjadi kesalahan pada Omni Notes\nLaporan telah dikirim ke pengembang!</string>
-  <string name="new_update_available">Versi Omni Notes yang baru telah tersedia, apakah kamu ingin memperbaharuinya?</string>
+  <string name="crash_toast">Telah terjadi kesalahan pada Notes™ Pro\nLaporan telah dikirim ke pengembang!</string>
+  <string name="new_update_available">Versi Notes™ Pro yang baru telah tersedia, apakah kamu ingin memperbaharuinya?</string>
   <string name="update">Perbaharui dan beri rating!</string>
   <string name="not_now">Tidak sekarang</string>
   <string name="title_activity_sketch">Sketsa</string>
@@ -204,7 +204,7 @@
   <string name="info">Info</string>
   <string name="completed">Completed</string>
   <!-- Settings -->
-  <string name="dashclock_description">Tampilkan beberapa statistik dan mengakhiri pengingat dari Omni Notes</string>
+  <string name="dashclock_description">Tampilkan beberapa statistik dan mengakhiri pengingat dari Notes™ Pro</string>
   <string name="settings">Setelan</string>
   <string name="settings_about">Info</string>
   <string name="settings_category_other">Lainnya</string>
@@ -239,7 +239,7 @@
   <string name="settings_changelog">Log perubahan</string>
   <string name="settings_enable_editor_links">Pendeteksi tautan</string>
   <string name="settings_max_video_size">Lampiran video</string>
-  <string name="settings_screen_data">Data</string>
+  <string name="settings_screen_data">Backup &amp; Password</string>
   <string name="settings_backup">Cadangan</string>
   <string name="settings_password">Kata sandi</string>
   <string name="settings_password_access">Permintaan kata sandi sedang diproses</string>
@@ -301,7 +301,7 @@
   <string name="settings_navdrawer_on_exit">Menu navigasi pada tombol keluar</string>
   <string name="settings_navdrawer_on_exit_summary">Menekan \"kembali\" ketika dalam daftar catatan membuka menu navigasi bukan keluar</string>
   <string name="settings_text_size">Ukuran teks</string>
-  <string name="settings_screen_behaviors">Behaviors</string>
+  <string name="settings_screen_behaviors">Actions</string>
   <string name="settings_enable_swipe">Gesek pada catatan</string>
   <string name="settings_enable_swipe_summary">Gesek pada catatan untuk melakukan tindakan</string>
   <string name="settings_swipe_to_trash">Gesek untuk membuang</string>
@@ -356,8 +356,8 @@
   <string name="stats_max_characters">Char Maximal</string>
   <string name="stats_avg_characters">Char rata-rata</string>
   <!-- Instructions -->
-  <string name="tour_request_start">Anda meluncurkan Omni Note untuk pertama kali, Anda ingin mengambil tur dalam aplikasi?</string>
-  <string name="tour_listactivity_intro_title">Selamat datang di Omni Notes!</string>
+  <string name="tour_request_start">Anda meluncurkan Notes™ Pro untuk pertama kali, Anda ingin mengambil tur dalam aplikasi?</string>
+  <string name="tour_listactivity_intro_title">Selamat datang di Notes™ Pro!</string>
   <string name="tour_listactivity_intro_detail">Tekan \"Lanjut\" untuk melanjutkan tur</string>
   <string name="tour_listactivity_actions_title">Tindakan</string>
   <string name="tour_listactivity_actions_detail">Buat catatan baru, urutkan, dan akses ke preferensi</string>
@@ -372,13 +372,13 @@
   <string name="tour_detailactivity_reminder_title">Hanya klik</string>
   <string name="tour_detailactivity_reminder_detail">Menekan lama mempunyai banyak fungsi pada sebuah objek (lampiran, lokasi, pengingat) daripada menekan singkat!</string>
   <string name="tour_detailactivity_links_title">Tautan</string>
-  <string name="tour_detailactivity_links_detail">URL, e-mail addresses and telephone numbers recognition</string>
+ <string name="tour_detailactivity_links_detail">Add various kinds of media files in your notes</string>
   <string name="tour_detailactivity_swipe_title">Geser</string>
   <string name="tour_detailactivity_swipe_detail">Buat catatan baru tanpa \n meninggalkan apa yang anda ubah</string>
   <string name="tour_detailactivity_save_title">Simpan</string>
   <string name="tour_detailactivity_save_detail">Untuk kembali, tekan ikon navigasi \"up\", atau tombol kembali di perangkat Anda</string>
   <string name="tour_listactivity_final_title">Enjoy</string>
-  <string name="tour_listactivity_final_detail">Terima kasih telah menggunakan Omni Notes \nAplikasi catatan alternatif bersumber terbuka yang cocok untuk kerja maupun rekreasi!</string>
+  <string name="tour_listactivity_final_detail">Terima kasih telah menggunakan Notes™ Pro \nAplikasi catatan alternatif bersumber terbuka yang cocok untuk kerja maupun rekreasi!</string>
   <string name="tour_community">Berlangganan dalam komunitas untuk berpartisipasi!</string>
   <!-- Accessibility -->
   <string name="drawer_open">drawer terbuka</string>

@@ -21,7 +21,7 @@
   <string name="title_item_list">Σημειώσεις</string>
   <string name="add_note">Προσθήκη σημείωσης</string>
   <string name="title">Τίτλος</string>
-  <string name="title_activity_list">Σημειώσεις Omni</string>
+  <string name="title_activity_list">Σημειώσεις Notes™ Pro</string>
   <string name="search">Αναζήτηση</string>
   <string name="search_hint">Αναζήτηση στις σημειώσεις</string>
   <string name="content">Περιεχόμενο</string>
@@ -51,7 +51,7 @@
   <string name="note_unarchived">Σημείωση που επαναφέρθηκε από το αρχείο</string>
   <string name="note">Σημείωση</string>
   <string name="share_message_chooser">Κοινή χρήση με</string>
-  <string name="shared_content_sign">\n【by Omni Notes】</string>
+  <string name="shared_content_sign">\n【by Notes™ Pro】</string>
   <string name="sort">Ταξινόμηση</string>
   <string name="select_sorting_column">Ταξινόμηση κατά</string>
   <string name="tap_to_undo">Πατήστε για αναίρεση</string>
@@ -126,10 +126,10 @@
   <string name="checklist_keep_checked">Διατήρηση επιλεγμένων στοιχείων</string>
   <string name="checklist_keep_symbols">Διατήρηση επισημάνσεων</string>
   <string name="sketch">Σκίτσο</string>
-  <string name="crash_dialog_text">Κάτι πήγε λάθος στο Omni Notes\nΝα σταλεί αυτόματη αναφορά στον προγραμματιστή;</string>
+  <string name="crash_dialog_text">Κάτι πήγε λάθος στο Notes™ Pro\nΝα σταλεί αυτόματη αναφορά στον προγραμματιστή;</string>
   <string name="crash_dialog_comment_prompt">Εισαγωγή σχολίου εδώ (προαιρετικό):</string>
-  <string name="crash_toast">Κάτι πήγε λάθος στο Omni Notes\nΜια αναφορά έχει σταλεί στον προγραμματιστή!</string>
-  <string name="new_update_available">Μια νέα έκδοση του Omni Notes είναι διαθέσιμη, Να γίνει ενημέρωση;</string>
+  <string name="crash_toast">Κάτι πήγε λάθος στο Notes™ Pro\nΜια αναφορά έχει σταλεί στον προγραμματιστή!</string>
+  <string name="new_update_available">Μια νέα έκδοση του Notes™ Pro είναι διαθέσιμη, Να γίνει ενημέρωση;</string>
   <string name="update">Ενημέρωση και αξιολόγηση!</string>
   <string name="not_now">Όχι τώρα</string>
   <string name="title_activity_sketch">Σκίτσο</string>
@@ -204,7 +204,7 @@
   <string name="info">Πληροφορίες</string>
   <string name="completed">Ολοκληρωμένες</string>
   <!-- Settings -->
-  <string name="dashclock_description">Εμφανίζει κάποια στατιστικά στοιχεία και ληγμένες υπενθυμίσεις από τις σημειώσεις Omni</string>
+  <string name="dashclock_description">Εμφανίζει κάποια στατιστικά στοιχεία και ληγμένες υπενθυμίσεις από τις σημειώσεις Notes™ Pro</string>
   <string name="settings">Ρυθμίσεις</string>
   <string name="settings_about">Πληροφορίες</string>
   <string name="settings_category_other">Άλλα</string>
@@ -356,8 +356,8 @@
   <string name="stats_max_characters">Μέγιστοι χαρακτήρες</string>
   <string name="stats_avg_characters">Μέσος όρος χαρακτήρων</string>
   <!-- Instructions -->
-  <string name="tour_request_start">Ξεκινήσατε τις Σημειώσεις Omni για πρώτη φορά, θα θέλατε να γίνει μια περιήγηση στην εφαρμογή;</string>
-  <string name="tour_listactivity_intro_title">Καλώς ήλθατε στις Σημειώσεις Omni!</string>
+  <string name="tour_request_start">Ξεκινήσατε τις Σημειώσεις Notes™ Pro για πρώτη φορά, θα θέλατε να γίνει μια περιήγηση στην εφαρμογή;</string>
+  <string name="tour_listactivity_intro_title">Καλώς ήλθατε στις Σημειώσεις Notes™ Pro!</string>
   <string name="tour_listactivity_intro_detail">πατήστε \"Συνέχεια\" για να συνεχίστει η περιήγηση</string>
   <string name="tour_listactivity_actions_title">Ενέργειες</string>
   <string name="tour_listactivity_actions_detail">Δημιουργία νέων σημειώσεων, ταξινόμησή τους, πρόσβαση στις προτιμήσεις</string>
@@ -378,7 +378,7 @@
   <string name="tour_detailactivity_save_title">Αποθήκευση</string>
   <string name="tour_detailactivity_save_detail">Για να επιστρέψετε, πιέστε το \"επάνω\" εικονίδιο πλοήγησης, ή το κουμπί της συσκευής σας</string>
   <string name="tour_listactivity_final_title">Καλή Διασκέδαση</string>
-  <string name="tour_listactivity_final_detail">Ευχαριστούμε που χρησιμοποιείτε τις Σημειώσεις Omni \n Η εναλλακτική επιλογή ανοικτού κώδικα, για παραγωγικότητα και ευχάριστη εισαγωγή σημειώσεων!</string>
+  <string name="tour_listactivity_final_detail">Ευχαριστούμε που χρησιμοποιείτε τις Σημειώσεις Notes™ Pro \n Η εναλλακτική επιλογή ανοικτού κώδικα, για παραγωγικότητα και ευχάριστη εισαγωγή σημειώσεων!</string>
   <string name="tour_community">Εγγραφείτε στην Κοινότητα για να συμμετάσχετε!</string>
   <!-- Accessibility -->
   <string name="drawer_open">μενού ανοικτό</string>

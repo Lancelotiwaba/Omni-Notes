@@ -21,7 +21,7 @@
   <string name="title_item_list">Notas</string>
   <string name="add_note">Añadir Nota</string>
   <string name="title">Título</string>
-  <string name="title_activity_list">Omni Notes</string>
+  <string name="title_activity_list">Notes™ Pro</string>
   <string name="search">Búsqueda</string>
   <string name="search_hint">Buscar en las notas</string>
   <string name="content">Contenido</string>
@@ -52,7 +52,7 @@
   <string name="note">Nota</string>
   <string name="share_message_chooser">Compartir con</string>
   <string name="shared_content_sign">\"
-【por Omni Notes】\"</string>
+【por Notes™ Pro】\"</string>
   <string name="sort">Ordenar</string>
   <string name="select_sorting_column">Ordenar por</string>
   <string name="tap_to_undo">Pulse para deshacer</string>
@@ -107,7 +107,7 @@
   <string name="delete_category_confirmation">Esta categoría está en uso por algunas notas.\n¿Descategorizar las notas y eliminar la categoría?</string>
   <string name="discard">Descartar</string>
   <string name="remove_category">Eliminar categoría</string>
-  <string name="no_tags_created">No tags available yet\nCreate them by writing hashtags into your notes</string>
+  <string name="no_tags_created">No tags available yet!</string>
   <string name="no_categories_created">Aún no has creado ninguna categoría</string>
   <string name="notes_category_removed">Nota eliminada de la categoría</string>
   <string name="notes_categorized_as">Notas categorizadas como</string>
@@ -127,10 +127,10 @@
   <string name="checklist_keep_checked">Mantener elementos seleccionados</string>
   <string name="checklist_keep_symbols">Mantenga las marcas de verificación (para recordar las notas marcadas)</string>
   <string name="sketch">Dibujado</string>
-  <string name="crash_dialog_text">Ha ocurrido un problema con Omni Notes\n Le gustaría enviar un reporte al programador?</string>
+  <string name="crash_dialog_text">Ha ocurrido un problema con Notes™ Pro\n Le gustaría enviar un reporte al programador?</string>
   <string name="crash_dialog_comment_prompt">Ingresar un comentario adicional aquí:</string>
-  <string name="crash_toast">Algo malo paso en Omni Notes\n¡Un reporte ha sido enviado al desarrollador!</string>
-  <string name="new_update_available">Hay una nueva versión Omni Notes ¿Le gustaría actualizar?</string>
+  <string name="crash_toast">Algo malo paso en Notes™ Pro\n¡Un reporte ha sido enviado al desarrollador!</string>
+  <string name="new_update_available">Hay una nueva versión Notes™ Pro ¿Le gustaría actualizar?</string>
   <string name="update">¡Actualizar y votar!</string>
   <string name="not_now">Ahora no</string>
   <string name="title_activity_sketch">Dibujado</string>
@@ -205,7 +205,7 @@
   <string name="info">Información</string>
   <string name="completed">Completed</string>
   <!-- Settings -->
-  <string name="dashclock_description">Muestra algunas estadísticas y recordatorios cercanos de Omni Notes</string>
+  <string name="dashclock_description">Muestra algunas estadísticas y recordatorios cercanos de Notes™ Pro</string>
   <string name="settings">Configuración</string>
   <string name="settings_about">Información</string>
   <string name="settings_category_other">Otros</string>
@@ -357,8 +357,8 @@
   <string name="stats_max_characters">Máx. caracteres</string>
   <string name="stats_avg_characters">Media de caracteres</string>
   <!-- Instructions -->
-  <string name="tour_request_start">Se ha iniciado Omni Notes por primera vez, ¿le gustaría hacer un tour de la aplicación?</string>
-  <string name="tour_listactivity_intro_title">Bienvenido a Omni Notes!</string>
+  <string name="tour_request_start">Se ha iniciado Notes™ Pro por primera vez, ¿le gustaría hacer un tour de la aplicación?</string>
+  <string name="tour_listactivity_intro_title">Bienvenido a Notes™ Pro!</string>
   <string name="tour_listactivity_intro_detail">Presione \"Continuar\" para seguir el recorrido del tour</string>
   <string name="tour_listactivity_actions_title">Acciones</string>
   <string name="tour_listactivity_actions_detail">Crear nuevas notas, ordenarlas, acceder a las preferencias</string>
@@ -373,13 +373,13 @@
   <string name="tour_detailactivity_reminder_title">Solo presione</string>
   <string name="tour_detailactivity_reminder_detail">Presiones cortas o largas en los objetos (archivos adjuntos, ubicación, recordatorio) tienen efecto diferente!</string>
   <string name="tour_detailactivity_links_title">Enlaces</string>
-  <string name="tour_detailactivity_links_detail">URL, e-mail addresses and telephone numbers recognition</string>
+ <string name="tour_detailactivity_links_detail">Add various kinds of media files in your notes</string>
   <string name="tour_detailactivity_swipe_title">Deslizar</string>
   <string name="tour_detailactivity_swipe_detail">Crear notas sin dejar \n la que estás editando</string>
   <string name="tour_detailactivity_save_title">Guardar</string>
   <string name="tour_detailactivity_save_detail">Simplemente pulse el icono de navegación \"arriba\"  o el botón de regresar de su dispositivo</string>
   <string name="tour_listactivity_final_title">Disfrute</string>
-  <string name="tour_listactivity_final_detail">Gracias por usar Omni Notes\nLa alternativa de código abierto para productividad y ocio para tomar notas!</string>
+  <string name="tour_listactivity_final_detail">Gracias por usar Notes™ Pro\nLa alternativa de código abierto para productividad y ocio para tomar notas!</string>
   <string name="tour_community">¡Suscríbete a la comunidad para participar!</string>
   <!-- Accessibility -->
   <string name="drawer_open">Editor abierto</string>

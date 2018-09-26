@@ -375,7 +375,7 @@
   <string name="tour_detailactivity_reminder_title">बस दबाये</string>
   <string name="tour_detailactivity_reminder_detail">छोटे या बड़े प्रेशन्स का वस्तु(अटैचमेंट, जगह, रिमाइंडर) पर अलग प्रभाव होता हे </string>
   <string name="tour_detailactivity_links_title">कड़ियाँ</string>
-  <string name="tour_detailactivity_links_detail">URL, e-mail addresses and telephone numbers recognition</string>
+ <string name="tour_detailactivity_links_detail">Add various kinds of media files in your notes</string>
   <string name="tour_detailactivity_swipe_title">उंगली गुमाईए</string>
   <string name="tour_detailactivity_swipe_detail">नयी नोट बनाये \nअभी खुली नोट को छोड़े बिना</string>
   <string name="tour_detailactivity_save_title">सेव</string>

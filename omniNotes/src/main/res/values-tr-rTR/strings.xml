@@ -21,7 +21,7 @@
   <string name="title_item_list">Notlar</string>
   <string name="add_note">Not Ekle</string>
   <string name="title">Not Başlığı</string>
-  <string name="title_activity_list">Omni Notes</string>
+  <string name="title_activity_list">Notes™ Pro</string>
   <string name="search">Arama</string>
   <string name="search_hint">Notlarda ara</string>
   <string name="content">Neyi unutmamalısın</string>
@@ -51,7 +51,7 @@
   <string name="note_unarchived">Arşivden geri yüklendi</string>
   <string name="note">Not</string>
   <string name="share_message_chooser">Bununla paylaş</string>
-  <string name="shared_content_sign">\n 【Omni Notes】</string>
+  <string name="shared_content_sign">\n 【Notes™ Pro】</string>
   <string name="sort">Sırala</string>
   <string name="select_sorting_column">Sırala</string>
   <string name="tap_to_undo">Geri almak için dokunun</string>
@@ -106,7 +106,7 @@
   <string name="delete_category_confirmation">Bu kategori bazı notlar tarafından kullanılıyor.\nNotların kategoriden çıkışını ve kategorinin silinmesini onayla?</string>
   <string name="discard">İptal et</string>
   <string name="remove_category">Kategoriyi kaldır</string>
-  <string name="no_tags_created">No tags available yet\nCreate them by writing hashtags into your notes</string>
+  <string name="no_tags_created">No tags available yet!</string>
   <string name="no_categories_created">Henüz oluşturulmuş bir kategori yok</string>
   <string name="notes_category_removed">Kategori notları kaldırıldı</string>
   <string name="notes_categorized_as">Notlar kategorize edildi </string>
@@ -116,7 +116,7 @@
   <string name="save_note_to_unlock_it">Not kilidi kaldırıldı</string>
   <string name="unlock">Kilidi kaldır</string>
   <string name="title_activity_password">Güvenlik şifresini düzenle</string>
-  <string name="title_activity_about">Omni Notes\'a Katkı Yapanlar</string>
+  <string name="title_activity_about">Notes™ Pro\'a Katkı Yapanlar</string>
   <string name="deleted">silindi</string>
   <string name="no_items_in_list">Burada bir şey yok!</string>
   <string name="checklist_on">Listeyi etkinleştir</string>
@@ -126,10 +126,10 @@
   <string name="checklist_keep_checked">İşaretli öğeleri sakla</string>
   <string name="checklist_keep_symbols">Onay işaretini sakla (işaretli olanları hatırla) </string>
   <string name="sketch">El Yazısı</string>
-  <string name="crash_dialog_text">Omni Notes\'ta bir şeyler ters gitti\n Geliştiriciye rapor göndermek ister misiniz?</string>
+  <string name="crash_dialog_text">Notes™ Pro\'ta bir şeyler ters gitti\n Geliştiriciye rapor göndermek ister misiniz?</string>
   <string name="crash_dialog_comment_prompt">İsterseniz yorum ekleyebilirsiniz:</string>
   <string name="crash_toast">Uygulamada, ters giden birşeyler var.\nRapor hazırlanarak geliştiricilere gönderildi!</string>
-  <string name="new_update_available">Omni Notes\'un yeni bir sürümü yayınlandı, güncellemek istiyor musunuz?</string>
+  <string name="new_update_available">Notes™ Pro\'un yeni bir sürümü yayınlandı, güncellemek istiyor musunuz?</string>
   <string name="update">Güncelle ve oyla!</string>
   <string name="not_now">Şimdi değil</string>
   <string name="title_activity_sketch">El Yazısı</string>
@@ -201,12 +201,12 @@
   <string name="text_note">Metin Notu</string>
   <string name="photo">Fotoğraf</string>
   <string name="uncompleted_checklists">Incompleted checklists</string>
-  <string name="info">Omni Notes\'a Katkı Yapanlar</string>
+  <string name="info">Notes™ Pro\'a Katkı Yapanlar</string>
   <string name="completed">Completed</string>
   <!-- Settings -->
   <string name="dashclock_description">Yaklaşan hatırlatmalarınızı ve not sayılarınızı görüntüleyebirsiniz</string>
   <string name="settings">Ayarlar</string>
-  <string name="settings_about">Omni Notes\'a Katkı Yapanlar</string>
+  <string name="settings_about">Notes™ Pro\'a Katkı Yapanlar</string>
   <string name="settings_category_other">Diğer</string>
   <string name="settings_reset_all_data">Tüm verileri sil</string>
   <string name="reset_all_data_confirmation">Bütün uygulama verilerini kaldırmayı onaylıyor musunuz? (yedekler korunacak)</string>
@@ -356,8 +356,8 @@
   <string name="stats_max_characters">Maks. karakter</string>
   <string name="stats_avg_characters">Ortalama karakter</string>
   <!-- Instructions -->
-  <string name="tour_request_start">Omni Notes\'u yeni yükledin, uygulamayı keşfetmeye ne dersin?</string>
-  <string name="tour_listactivity_intro_title">Omni Notes\'a hoş geldiniz!</string>
+  <string name="tour_request_start">Notes™ Pro\'u yeni yükledin, uygulamayı keşfetmeye ne dersin?</string>
+  <string name="tour_listactivity_intro_title">Notes™ Pro\'a hoş geldiniz!</string>
   <string name="tour_listactivity_intro_detail">Devam etmek için \"İlerle\'ye\" dokun</string>
   <string name="tour_listactivity_actions_title">Eylemler</string>
   <string name="tour_listactivity_actions_detail">Yeni not oluştur, sırala ve tercihlere git</string>
@@ -372,13 +372,13 @@
   <string name="tour_detailactivity_reminder_title">Sadece dokunun</string>
   <string name="tour_detailactivity_reminder_detail">Uzun veya kısa dokunuşlar farklı işlevlere sahiptir(konum, hatırlatma)</string>
   <string name="tour_detailactivity_links_title">Bağlantılar</string>
-  <string name="tour_detailactivity_links_detail">URL, e-mail addresses and telephone numbers recognition</string>
+ <string name="tour_detailactivity_links_detail">Add various kinds of media files in your notes</string>
   <string name="tour_detailactivity_swipe_title">Kaydır</string>
   <string name="tour_detailactivity_swipe_detail">Düzenlediğiniz bir nottan ayrılmadan \n yeni notlar oluştur</string>
   <string name="tour_detailactivity_save_title">Kaydet</string>
   <string name="tour_detailactivity_save_detail">Geri dönmek için \"yukarı\" navigasyon simgesine veya aygıt düğmesine basın</string>
   <string name="tour_listactivity_final_title">Keyfini Çıkarın</string>
-  <string name="tour_listactivity_final_detail">Omni Notes uygulamasını kullandığınız için teşekkürler \nVerimlilik ve eğlenceli not alma için açık kaynaklı bir alternatif uygulama!</string>
+  <string name="tour_listactivity_final_detail">Notes™ Pro uygulamasını kullandığınız için teşekkürler \nVerimlilik ve eğlenceli not alma için açık kaynaklı bir alternatif uygulama!</string>
   <string name="tour_community">Topluluğumuza abone olun!</string>
   <!-- Accessibility -->
   <string name="drawer_open">çekmece açık</string>

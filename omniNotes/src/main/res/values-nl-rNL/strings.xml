@@ -21,7 +21,7 @@
   <string name="title_item_list">Notities</string>
   <string name="add_note">Notitie toevoegen</string>
   <string name="title">Titel</string>
-  <string name="title_activity_list">Omni Notes</string>
+  <string name="title_activity_list">Notes™ Pro</string>
   <string name="search">Zoek</string>
   <string name="search_hint">Zoeken in notities</string>
   <string name="content">Inhoud</string>
@@ -51,7 +51,7 @@
   <string name="note_unarchived">Notitie hersteld uit archief</string>
   <string name="note">Notitie</string>
   <string name="share_message_chooser">Deel met</string>
-  <string name="shared_content_sign">\n 【door Omni Notes】</string>
+  <string name="shared_content_sign">\n 【door Notes™ Pro】</string>
   <string name="sort">Sorteer</string>
   <string name="select_sorting_column">Sorteer op</string>
   <string name="tap_to_undo">Tik om ongedaan te maken</string>
@@ -126,10 +126,10 @@
   <string name="checklist_keep_checked">Houd aangevinkte items</string>
   <string name="checklist_keep_symbols">Houd vinkjes (om aangevinkte te herinneren)</string>
   <string name="sketch">Schets</string>
-  <string name="crash_dialog_text">Er is iets misgegaan in Omni Notes\n Wilt u dit melden aan de ontwikkelaar?</string>
+  <string name="crash_dialog_text">Er is iets misgegaan in Notes™ Pro\n Wilt u dit melden aan de ontwikkelaar?</string>
   <string name="crash_dialog_comment_prompt">Een optionele opmerking hier invoegen:</string>
-  <string name="crash_toast">Er ging iets mis in Omni Notes\nA verslag is verstuurd verslag aan de ontwikkelaar!</string>
-  <string name="new_update_available">Een nieuwe Omni Notes versie is beschikbaar, wil je bijwerken?</string>
+  <string name="crash_toast">Er ging iets mis in Notes™ Pro\nA verslag is verstuurd verslag aan de ontwikkelaar!</string>
+  <string name="new_update_available">Een nieuwe Notes™ Pro versie is beschikbaar, wil je bijwerken?</string>
   <string name="update">Update en beoordeel!</string>
   <string name="not_now">Niet nu</string>
   <string name="title_activity_sketch">Schets</string>
@@ -204,7 +204,7 @@
   <string name="info">Info</string>
   <string name="completed">Voltooid</string>
   <!-- Settings -->
-  <string name="dashclock_description">Sommige statistieken en de naderende herinneringen van Omni notities worden weergegeven</string>
+  <string name="dashclock_description">Sommige statistieken en de naderende herinneringen van Notes™ Pro notities worden weergegeven</string>
   <string name="settings">Instellingen</string>
   <string name="settings_about">Over de app</string>
   <string name="settings_category_other">Overig</string>
@@ -228,7 +228,7 @@
   <string name="export_warning">Geëxporteerd bestand zal het vorige overschrijven. Doorgaan?</string>
   <string name="settings_category_gestures">Gebaren</string>
   <string name="settings_enable_swype">Inschakelen swype</string>
-  <string name="settings_screen_interface">Interface</string>
+  <string name="settings_screen_interface">Appearance</string>
   <string name="settings_enable_animations">Animaties</string>
   <string name="settings_screen_backup">Back-up</string>
   <string name="settings_screen_notifications">Notificaties</string>
@@ -239,7 +239,7 @@
   <string name="settings_changelog">Wijzigingen</string>
   <string name="settings_enable_editor_links">Links herkennen</string>
   <string name="settings_max_video_size">Video bijlagen</string>
-  <string name="settings_screen_data">Data</string>
+  <string name="settings_screen_data">Backup &amp; Password</string>
   <string name="settings_backup">Back-up</string>
   <string name="settings_password">Wachtwoord</string>
   <string name="settings_password_access">Wachtwoord vragen bij toegang</string>
@@ -356,8 +356,8 @@
   <string name="stats_max_characters">Hoogste aantal tekens</string>
   <string name="stats_avg_characters">Gemiddeld aantal tekens</string>
   <!-- Instructions -->
-  <string name="tour_request_start">U startte Omni Notes voor de eerste keer, zou u een rondleiding willen van de toepassing?</string>
-  <string name="tour_listactivity_intro_title">Welkom bij Omni notities!</string>
+  <string name="tour_request_start">U startte Notes™ Pro voor de eerste keer, zou u een rondleiding willen van de toepassing?</string>
+  <string name="tour_listactivity_intro_title">Welkom bij Notes™ Pro notities!</string>
   <string name="tour_listactivity_intro_detail">Druk op \"Verdergaan\" om door te gaan met de tour</string>
   <string name="tour_listactivity_actions_title">acties</string>
   <string name="tour_listactivity_actions_detail">Nieuwe notities maken, ze sorteren, toegang tot Voorkeuren</string>
@@ -371,14 +371,14 @@
   <string name="tour_detailactivity_action_detail">Delen,  labelen, archiveren en beschermen, en...</string>
   <string name="tour_detailactivity_reminder_title">Druk gewoon op</string>
   <string name="tour_detailactivity_reminder_detail">Korte of lange drukken op objecten (bijlagen, locatie, herinnering) hebben verschillende effecten!</string>
-  <string name="tour_detailactivity_links_title">Links</string>
+  <string name="tour_detailactivity_links_title">Media Linkage</string>
   <string name="tour_detailactivity_links_detail">URL, e-mail adressen en telefoonnummer-herkenning</string>
   <string name="tour_detailactivity_swipe_title">Veeg</string>
   <string name="tour_detailactivity_swipe_detail">Nieuwe notities maken zonder\ndegene die u aan het bewerken\n bent te verlaten</string>
   <string name="tour_detailactivity_save_title">Opslaan</string>
   <string name="tour_detailactivity_save_detail">Druk gewoon op \"op\" navigatie pictogram of ga terug met uw knop van het apparaat</string>
   <string name="tour_listactivity_final_title">Geniet</string>
-  <string name="tour_listactivity_final_detail">Bedankt voor het gebruik van Omni Notes \nHet open source alternatief voor productiviteit en vrije tijd notities!</string>
+  <string name="tour_listactivity_final_detail">Bedankt voor het gebruik van Notes™ Pro \nHet open source alternatief voor productiviteit en vrije tijd notities!</string>
   <string name="tour_community">Abonneer je op de Gemeenschap om deel te nemen!</string>
   <!-- Accessibility -->
   <string name="drawer_open">lade open</string>

@@ -21,7 +21,7 @@
   <string name="title_item_list">Jegyzetek</string>
   <string name="add_note">Jegyzet hozzáadása</string>
   <string name="title">Cím</string>
-  <string name="title_activity_list">Omni Notes</string>
+  <string name="title_activity_list">Notes™ Pro</string>
   <string name="search">Keresés</string>
   <string name="search_hint">Keresés a jegyzetekben</string>
   <string name="content">Tartalom</string>
@@ -51,7 +51,7 @@
   <string name="note_unarchived">Jegyzet visszaállítva archívumból</string>
   <string name="note">Jegyzet</string>
   <string name="share_message_chooser">Megosztás ezzel</string>
-  <string name="shared_content_sign">\n【Omni Notes】</string>
+  <string name="shared_content_sign">\n【Notes™ Pro】</string>
   <string name="sort">Rendezés</string>
   <string name="select_sorting_column">Rendezés a következő szerint</string>
   <string name="tap_to_undo">Érintse meg a visszavonáshoz</string>
@@ -126,10 +126,10 @@
   <string name="checklist_keep_checked">Tartsa meg a kijelölt elemeket</string>
   <string name="checklist_keep_symbols">Tartsa meg a kijelöléseket</string>
   <string name="sketch">Vázlat</string>
-  <string name="crash_dialog_text">Valami elromlott az Omni Notes-ben\nKüld automatikus jelentést a fejlesztőnek?</string>
+  <string name="crash_dialog_text">Valami elromlott az Notes™ Pro-ben\nKüld automatikus jelentést a fejlesztőnek?</string>
   <string name="crash_dialog_comment_prompt">Írjon ide megjegyzést (nem kötelező):</string>
-  <string name="crash_toast">Valami elromlott az Omni Notes-ben\nA jelentés nem érkezett meg a fejlesztőhöz!</string>
-  <string name="new_update_available">Az Omni Notes új verziója elérhető, szeretné frissíteni?</string>
+  <string name="crash_toast">Valami elromlott az Notes™ Pro-ben\nA jelentés nem érkezett meg a fejlesztőhöz!</string>
+  <string name="new_update_available">Az Notes™ Pro új verziója elérhető, szeretné frissíteni?</string>
   <string name="update">Frissítés és értékelés!</string>
   <string name="not_now">Most nem</string>
   <string name="title_activity_sketch">Vázlat</string>
@@ -204,7 +204,7 @@
   <string name="info">Információ</string>
   <string name="completed">Kész</string>
   <!-- Settings -->
-  <string name="dashclock_description">Statisztikák és lejáró emlékeztetők megjelenítése az Omni Notes-ból</string>
+  <string name="dashclock_description">Statisztikák és lejáró emlékeztetők megjelenítése az Notes™ Pro-ból</string>
   <string name="settings">Beállítások</string>
   <string name="settings_about">Információ</string>
   <string name="settings_category_other">Egyéb</string>
@@ -356,8 +356,8 @@
   <string name="stats_max_characters">Karakterek maximális száma</string>
   <string name="stats_avg_characters">Karakterek átlagos száma</string>
   <!-- Instructions -->
-  <string name="tour_request_start">Most indította el az Omni Notes alkalmazást először, szeretné megtekinteni az alkalmazás kalauzt?</string>
-  <string name="tour_listactivity_intro_title">Üdvözli az Omni Notes!</string>
+  <string name="tour_request_start">Most indította el az Notes™ Pro alkalmazást először, szeretné megtekinteni az alkalmazás kalauzt?</string>
+  <string name="tour_listactivity_intro_title">Üdvözli az Notes™ Pro!</string>
   <string name="tour_listactivity_intro_detail">nyomja meg a „Folytatás”-t az alkalmazás kalauzban való haladáshoz</string>
   <string name="tour_listactivity_actions_title">Műveletek</string>
   <string name="tour_listactivity_actions_detail">Hozzon létre új jegyzeteket, rendezze őket, férjen hozzá a beállításokhoz</string>
@@ -379,7 +379,7 @@ az éppen szerkesztett elhagyása nélkül</string>
   <string name="tour_detailactivity_save_title">Mentés</string>
   <string name="tour_detailactivity_save_detail">A visszatéréshez érintsd meg a \"fel\" ikont, vagy nyomd meg a készüléked gombját</string>
   <string name="tour_listactivity_final_title">Jó szórakozást</string>
-  <string name="tour_listactivity_final_detail">Köszönjük, hogy az Omni Notes alkalmazást használja.\n
+  <string name="tour_listactivity_final_detail">Köszönjük, hogy az Notes™ Pro alkalmazást használja.\n
 A nyílt forráskódú alternatíva irodai vagy személyes jegyzetek készítéséhez.</string>
   <string name="tour_community">Csatlakozzon a közösséghez a fejlesztésben való részvételhez!</string>
   <!-- Accessibility -->

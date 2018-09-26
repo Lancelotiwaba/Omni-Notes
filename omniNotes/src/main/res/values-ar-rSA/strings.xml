@@ -358,8 +358,8 @@
   <string name="stats_max_characters">الحد الأقصى للأحرُف</string>
   <string name="stats_avg_characters">متوسط الأحرُف</string>
   <!-- Instructions -->
-  <string name="tour_request_start">هذه أول مرة تشغّل فيها تطبيق Omni Note ، هل تود أخذ جولة التطبيق ؟</string>
-  <string name="tour_listactivity_intro_title">مرحباً بك في Omni Notes!</string>
+  <string name="tour_request_start">هذه أول مرة تشغّل فيها تطبيق Notes™ Pro ، هل تود أخذ جولة التطبيق ؟</string>
+  <string name="tour_listactivity_intro_title">مرحباً بك في Notes™ Pro!</string>
   <string name="tour_listactivity_intro_detail">إلمس \"متابعة\" لتكمل الجولة</string>
   <string name="tour_listactivity_actions_title">الإجراءات</string>
   <string name="tour_listactivity_actions_detail">أنشئ ملاحظات جديدة ، رتبها أو تصفح الخيارات</string>
@@ -374,13 +374,13 @@
   <string name="tour_detailactivity_reminder_title">أنقر فقط</string>
   <string name="tour_detailactivity_reminder_detail">تختلف الضغطة القصيرة على عنصر ما (المرفق ، المكان أو التنبيه) عن الضغطة الطويلة!</string>
   <string name="tour_detailactivity_links_title">روابط</string>
-  <string name="tour_detailactivity_links_detail">URL, e-mail addresses and telephone numbers recognition</string>
+ <string name="tour_detailactivity_links_detail">Add various kinds of media files in your notes</string>
   <string name="tour_detailactivity_swipe_title">تمرير</string>
   <string name="tour_detailactivity_swipe_detail">أنشئ ملاحظات جديدة\nدون ترك الملاحظة التي تحررها حالياً</string>
   <string name="tour_detailactivity_save_title">حفظ</string>
   <string name="tour_detailactivity_save_detail">للرجوع, أنقر على أيقونة الملاحة \"أعلى\" أو زر الشاشة الرئيسية</string>
   <string name="tour_listactivity_final_title">استمتع</string>
-  <string name="tour_listactivity_final_detail">شكراً لاختيارك Omni Notes\n تطبيق الانتاجية والملاحظات الممتع والمفتوح المصدر!</string>
+  <string name="tour_listactivity_final_detail">شكراً لاختيارك Notes™ Pro\n تطبيق الانتاجية والملاحظات الممتع والمفتوح المصدر!</string>
   <string name="tour_community">الاشتراك في المنتدى للمشاركة!</string>
   <!-- Accessibility -->
   <string name="drawer_open">درج مفتوح</string>

@@ -18,10 +18,10 @@
   -->
 <resources>
   <!-- Activities -->
-  <string name="title_item_list">Notes</string>
+  <string name="title_item_list">My Notes</string>
   <string name="add_note">Afegeix una nota</string>
   <string name="title">Títol</string>
-  <string name="title_activity_list">Omni Notes</string>
+  <string name="title_activity_list">Notes™ Pro</string>
   <string name="search">Cerca</string>
   <string name="search_hint">Cerca a les notes</string>
   <string name="content">Contingut</string>
@@ -51,7 +51,7 @@
   <string name="note_unarchived">S\'ha recuperat la nota de l\'arxiu</string>
   <string name="note">Nota</string>
   <string name="share_message_chooser">Comparteix amb</string>
-  <string name="shared_content_sign">\n【per l\'Omni Notes】</string>
+  <string name="shared_content_sign">\n【per l\'Notes™ Pro】</string>
   <string name="sort">Ordena</string>
   <string name="select_sorting_column">Ordena per</string>
   <string name="tap_to_undo">Feu un toc per a desfer</string>
@@ -126,10 +126,10 @@
   <string name="checklist_keep_checked">Conserva els elements marcats</string>
   <string name="checklist_keep_symbols">Conserva les marques de verificació</string>
   <string name="sketch">Esbós</string>
-  <string name="crash_dialog_text">Quelcom no ha anat bé a l\'Omni Notes\nVoleu uenviar un informe automàtic al desenvolupador?</string>
+  <string name="crash_dialog_text">Quelcom no ha anat bé a l\'Notes™ Pro\nVoleu uenviar un informe automàtic al desenvolupador?</string>
   <string name="crash_dialog_comment_prompt">Inseriu un comentari aquí (opcional):</string>
-  <string name="crash_toast">Quelcom ha anat malament a l\'Omni Notes\nS\'ha enviat un informe al desenvolupador!</string>
-  <string name="new_update_available">Hi ha disponible una versió nova de l\'Omni Notes, voleu actualitzar-la?</string>
+  <string name="crash_toast">Quelcom ha anat malament a l\'Notes™ Pro\nS\'ha enviat un informe al desenvolupador!</string>
+  <string name="new_update_available">Hi ha disponible una versió nova de l\'Notes™ Pro, voleu actualitzar-la?</string>
   <string name="update">Actualitza i puntua!</string>
   <string name="not_now">Ara no</string>
   <string name="title_activity_sketch">Esbós</string>
@@ -204,7 +204,7 @@
   <string name="info">Informació</string>
   <string name="completed">Completades</string>
   <!-- Settings -->
-  <string name="dashclock_description">Mostra algunes estadístiques i recordatoris expirats de l\'Omni Notes</string>
+  <string name="dashclock_description">Mostra algunes estadístiques i recordatoris expirats de l\'Notes™ Pro</string>
   <string name="settings">Configuració</string>
   <string name="settings_about">Informació</string>
   <string name="settings_category_other">Altres</string>
@@ -356,8 +356,8 @@
   <string name="stats_max_characters">Caràcters màx.</string>
   <string name="stats_avg_characters">Mitjana de caràcters</string>
   <!-- Instructions -->
-  <string name="tour_request_start">Heu executat l\'Omni Notes per primera vegada, voleu fer la gira de l\'aplicació?</string>
-  <string name="tour_listactivity_intro_title">Us donem la benvinguda a l\'Omni Notes!</string>
+  <string name="tour_request_start">Heu executat l\'Notes™ Pro per primera vegada, voleu fer la gira de l\'aplicació?</string>
+  <string name="tour_listactivity_intro_title">Us donem la benvinguda a l\'Notes™ Pro!</string>
   <string name="tour_listactivity_intro_detail">pitgeu \"Continua\" per continuar la gira</string>
   <string name="tour_listactivity_actions_title">Accions</string>
   <string name="tour_listactivity_actions_detail">Creeu notes noves, ordeneu-les, accediu a les preferències</string>
@@ -378,7 +378,7 @@
   <string name="tour_detailactivity_save_title">Desa</string>
   <string name="tour_detailactivity_save_detail">Per anar enrere, premeu la icona de navegació \"amunt\", o el botó del dispositiu</string>
   <string name="tour_listactivity_final_title">Gaudiu-ne</string>
-  <string name="tour_listactivity_final_detail">Gràcies per usar l\'Omni Notes \nL\'alternativa de codi obert que us permet prendre notes de forma productiva i entretinguda!</string>
+  <string name="tour_listactivity_final_detail">Gràcies per usar l\'Notes™ Pro \nL\'alternativa de codi obert que us permet prendre notes de forma productiva i entretinguda!</string>
   <string name="tour_community">Uniu-vos a la comunitat a participar!</string>
   <!-- Accessibility -->
   <string name="drawer_open">obre el tauler</string>

@@ -19,10 +19,11 @@
                   android:fitsSystemWindows="true">
 
     <SwitchPreference
-            android:defaultValue="true"
-            android:key="settings_dynamic_menu"
-            android:title="@string/settings_dynamic_menu"
-            android:summary="@string/settings_dynamic_menu_summary"/>
+        android:defaultValue="true"
+        android:fontFamily="cursive"
+        android:key="settings_dynamic_menu"
+        android:summary="@string/settings_dynamic_menu_summary"
+        android:title="@string/settings_dynamic_menu" />
 
     <SwitchPreference
             android:defaultValue="true"
