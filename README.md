@@ -26,18 +26,32 @@ The project was inspired by the absence of such applications compatible with old
 
 Currently the following functions are implemented:
 
-* Material Design interface
-  *Basic add, modify, archive, trash and delete notes actions
-* Share, merge and search notes
-* Image, audio and generic file attachments
-* Manage your notes using tags and categories
-* To-do list
-* Sketch-note mode
-* Notes shortcut on home screen
-* Export/import notes to backup
-* Google Now integration: just tell "write a note" followed by the content
-* Multiple widgets, DashClock extension, Android 4.2 lockscreen compatibility
-* Multilanguage: 30+ languages supported: https://crowdin.com/project/omni-notes
+1. Create Notes in text, pictures and checklist 
+2. Add reminders on notes
+3. Create Notes Categories 
+4. Has a trash bin in case of accidental deletion 
+5. Back Up and Restore Notes 
+6. Multiple languages support
+7. Set up your own preferred interface and navigation 
+8. Add Map Location to notes
+9. Add Automatic Map Location to notes
+10. Sort Notes By Title, Creation Date, Last Modified Date and Reminder Date
+11. Add Videos to Notes 
+12. Supports swipe action (swipe through notes and swipe to trash) 
+13. Set your preferred notification tones for reminders
+14. Supports Vibration Notification
+15. Set reminder intervals for notifications
+16. Notes Privacy Through Password Protection
+17. Create unlimited notes on a reduced view
+18. Custom password recovery questions for instant password recovery 
+19. Share notes
+20. Sketch notes with your thumb
+21. Record audio notes
+22. Merge Notes
+23. Change common notes to checklists and back
+24. Create notes shortcuts
+
+*Has No Ads*/
 
 
 Further developments will include:
@@ -49,34 +63,10 @@ You can find a complete changelog inside the application settings menu!
 
 If you need some help on how to use the application you'll find everything you need in the [Help Online](assets/help/help.md) section.
 
-![](https://raw.githubusercontent.com/federicoiosue/Omni-Notes/develop/assets/play_store_pics/02.png)
-![](https://raw.githubusercontent.com/federicoiosue/Omni-Notes/develop/assets/play_store_pics/03.png)
-![](https://raw.githubusercontent.com/federicoiosue/Omni-Notes/develop/assets/play_store_pics/04.png)
-![](https://raw.githubusercontent.com/federicoiosue/Omni-Notes/develop/assets/play_store_pics/05.png)
-![](https://raw.githubusercontent.com/federicoiosue/Omni-Notes/develop/assets/play_store_pics/06.png)
-![](https://raw.githubusercontent.com/federicoiosue/Omni-Notes/develop/assets/play_store_pics/07.png)
-![](https://raw.githubusercontent.com/federicoiosue/Omni-Notes/develop/assets/play_store_pics/08.png)
-![](https://raw.githubusercontent.com/federicoiosue/Omni-Notes/develop/assets/play_store_pics/09.png)
-![](https://raw.githubusercontent.com/federicoiosue/Omni-Notes/develop/assets/play_store_pics/10.png)
-![](https://raw.githubusercontent.com/federicoiosue/Omni-Notes/develop/assets/play_store_pics/11.png)
-![](https://raw.githubusercontent.com/federicoiosue/Omni-Notes/develop/assets/play_store_pics/12.png)
-
-## User guide
-
-Look into the wiki for GIFs-based tutorials: [LINK](https://github.com/federicoiosue/Omni-Notes/wiki)
-
-## Build
-
-Watch the following terminal session recording on how to compile distributable files
-[![asciicast](https://asciinema.org/a/102898.png)](https://asciinema.org/a/102898)
-
-## Test
-
-To execute all tests included into the project connect a device or emulator, then run the following command:
-
-```shell
-./gradlew connectedAndroidTest
-```
+![](https://raw.githubusercontent.com/federicoiosue/Omni-Notes/fastlane/metadata/android/en-US/images/phoneScreenshots/02.png)
+![](https://raw.githubusercontent.com/federicoiosue/Omni-Notes/fastlane/metadata/android/en-US/images/phoneScreenshots/03.png)
+![](https://raw.githubusercontent.com/federicoiosue/Omni-Notes/fastlane/metadata/android/en-US/images/phoneScreenshots/04.png)
+![](https://raw.githubusercontent.com/federicoiosue/Omni-Notes/fastlane/metadata/android/en-US/images/phoneScreenshots/05.png)
 
 ## Contributing
 
