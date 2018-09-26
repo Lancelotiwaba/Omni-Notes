@@ -51,7 +51,7 @@ Feel free to add yourself to [contributors.md](https://github.com/federicoiosue/
 
 ## Playstore Pics
 
-![](https://github.com/Lancelotiwaba/Omni-Notes/blob/develop/fastlane/metadata/android/en-US/images/phoneScreenshots/02.png height="640")
+![](https://github.com/Lancelotiwaba/Omni-Notes/blob/develop/fastlane/metadata/android/en-US/images/phoneScreenshots/02.png height="640"/)
 ![](https://github.com/Lancelotiwaba/Omni-Notes/blob/develop/fastlane/metadata/android/en-US/images/phoneScreenshots/03.png)
 ![](https://github.com/Lancelotiwaba/Omni-Notes/blob/develop/fastlane/metadata/android/en-US/images/phoneScreenshots/04.png)
 ![](https://github.com/Lancelotiwaba/Omni-Notes/blob/develop/fastlane/metadata/android/en-US/images/phoneScreenshots/05.png)
