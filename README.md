@@ -49,6 +49,9 @@ Feel free to add yourself to [contributors.md](https://github.com/federicoiosue/
 
 * Federico Iosue - [Website](https://federico.iosue.it)
 
+## Playstore Pics
+<img src="https://github.com/Lancelotiwaba/Omni-Notes/blob/develop/fastlane/metadata/android/en-US/images/phoneScreenshots/01.png" height="150"/>
+
 ## License
 
 
