@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Omni-Notes-develop.iml" filepath="$PROJECT_DIR$/Omni-Notes-develop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/omniNotes/omniNotes.iml" filepath="$PROJECT_DIR$/omniNotes/omniNotes.iml" />
+    </modules>
+  </component>
+</project>
