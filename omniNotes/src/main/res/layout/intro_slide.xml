@@ -70,6 +70,7 @@
             android:paddingRight="64dp"
             android:textSize="16sp"
             android:paddingTop="@dimen/intro_top_padding"
+            android:fontFamily="sans-serif-thin"
             android:paddingBottom="@dimen/intro_bottom_padding"/>
     <TextView
             android:layout_width="fill_parent"

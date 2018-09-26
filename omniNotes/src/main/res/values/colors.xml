@@ -18,9 +18,9 @@
 <resources>
 
     <!-- Material -->
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#F44336</color>
+    <color name="colorPrimary">#464646</color>
+    <color name="colorPrimaryDark">#464646</color>
+    <color name="colorAccent">#464646</color>
     <color name="colorAccentPressed">#D32F2F</color>
 
     <!-- Statusbar overlay -->
@@ -60,7 +60,7 @@
     <!-- toasts -->
     <color name="confirm">#303F9F</color>
     <color name="warning">#ff9800</color>
-    <color name="alert">#e51c23</color>
+    <color name="alert">#464646</color>
     <color name="info">#ee33B5E5</color>
     <color name="black_overlay">#33000000</color>
 
