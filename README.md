@@ -1,6 +1,6 @@
  ![icon](assets/logo.png)
 
-Omni-Notes
+Notes Pro From Omni-Notes
 ==========
 
 ![SLicense](https://img.shields.io/badge/License-GPLv3-red.svg)
