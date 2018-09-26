@@ -1,4 +1,4 @@
- ![icon](assets/log.png)
+ ![icon](assets/logo.png)
 
 Notes Pro From Omni-Notes
 ==========
