@@ -18,8 +18,8 @@ package it.feio.android.omninotes.utils;
 
 public interface Constants extends ConstantsBase {
 
-  String TAG = "Omni Notes";
-  String EXTERNAL_STORAGE_FOLDER = "Omni Notes";
+  String TAG = "Notes™ Pro";
+  String EXTERNAL_STORAGE_FOLDER = "Notes™ Pro";
   String PACKAGE = "it.feio.android.omninotes";
   String PREFS_NAME = PACKAGE + "_preferences";
 }

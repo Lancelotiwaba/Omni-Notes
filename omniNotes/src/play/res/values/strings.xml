@@ -18,8 +18,8 @@
   -->
 <resources>
 
-    <string name="app_name">Omni Notes</string>
-    <string name="app_package">it.feio.android.omninotes</string>
+    <string name="app_name">Notes™ Pro</string>
+    <string name="app_package">it.feio.android.Notes™ Pronotes</string>
     <string name="version_postfix"/>
 
 </resources>
